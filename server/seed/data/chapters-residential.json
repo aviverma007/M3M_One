@@ -1,0 +1,8175 @@
+[
+ {
+  "mod": 2,
+  "id": 1,
+  "t": "flooring",
+  "n": 1,
+  "last": false,
+  "secs": [
+   {
+    "id": 1,
+    "t": "Living & dining",
+    "c": null,
+    "f": [
+     {
+      "i": 1,
+      "n": "type of tile/stone",
+      "ty": "select",
+      "me": [
+       "Vitrified Tiles",
+       "Imported Marble"
+      ],
+      "pr": [
+       "Imported Marble"
+      ],
+      "af": [
+       "Imported Marble"
+      ],
+      "op": [
+       "5:Imported Marble",
+       "4:International Stone finish tiles",
+       "1:Vitrified Tiles",
+       "3:Wooden Flooring (engineered)",
+       "2:Wooden Flooring (Pre finished Laminated)",
+       "6:Any Other"
+      ]
+     },
+     {
+      "i": 2,
+      "n": "finish of tile/stone",
+      "ty": "select",
+      "me": [
+       "Glossy",
+       "NA (if imported marble)"
+      ],
+      "pr": [
+       "NA"
+      ],
+      "af": [
+       "NA"
+      ],
+      "op": [
+       "8:Ac4",
+       "10:Anti Skid",
+       "7:Glossy",
+       "12:Levelled cement",
+       "9:Matte",
+       "11:NA",
+       "1280:NA (if imported marble)",
+       "1269:Any Other"
+      ]
+     },
+     {
+      "i": 3,
+      "n": "size of tile/stone",
+      "ty": "select",
+      "me": [
+       "1200 X 600 mm",
+       "1600 X 800 mm (7% design wastage allowance for 1200X600mm)",
+       "NA (if imported marble)"
+      ],
+      "pr": [
+       "NA"
+      ],
+      "af": [
+       "NA"
+      ],
+      "op": [
+       "1281:1200 X 600 mm",
+       "13:1200 X 600 mm(7% design wastage allowance)",
+       "1282:1600 X 800 mm (7% design wastage allowance for 1200X600mm)",
+       "15:195 X 1200 mm",
+       "16:600 X 600 mm(8% design wastage allowance)",
+       "1283:NA",
+       "14:NA (if imported marble)",
+       "1270:Any Other"
+      ]
+     },
+     {
+      "i": 4,
+      "n": "thickness of tile/stone",
+      "ty": "select",
+      "me": [
+       "10 mm",
+       "16-18 mm (if imported marble)"
+      ],
+      "pr": [
+       "16-18 mm"
+      ],
+      "af": [
+       "16-18 mm"
+      ],
+      "op": [
+       "21:10 mm",
+       "19:10-12 mm",
+       "18:16-18 mm",
+       "1284:16-18 mm (if imported marble)",
+       "20:8 mm",
+       "17:Thickness of tile/stone",
+       "1271:Any Other"
+      ]
+     },
+     {
+      "i": 5,
+      "n": "skirting height",
+      "ty": "select",
+      "me": [
+       "75 - 100 mm (Joint of Floor & skirting to match)"
+      ],
+      "pr": [
+       "75 - 100 mm (Joint of Floor & skirting to match)"
+      ],
+      "af": [
+       "75 - 100 mm (Joint of Floor & skirting to match)"
+      ],
+      "op": [
+       "22:60 - 75 mm",
+       "1278:75 - 100 mm (Joint of Floor & skirting to match)",
+       "23:75-100 mm",
+       "1272:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 2,
+    "t": "Master bedroom",
+    "c": null,
+    "f": [
+     {
+      "i": 6,
+      "n": "type of floor",
+      "ty": "select",
+      "me": [
+       "Wooden Flooring (Pre finished Laminated)"
+      ],
+      "pr": [
+       "Wooden Flooring (Pre finished Laminated)"
+      ],
+      "af": [
+       "Wooden Flooring (engineered)",
+       "Marble"
+      ],
+      "op": [
+       "27:Imported Marble",
+       "26:International Stone finish tiles",
+       "1285:Marble",
+       "25:Wooden Flooring (engineered)",
+       "24:Wooden Flooring (Pre finished Laminated)",
+       "28:Any Other"
+      ]
+     },
+     {
+      "i": 7,
+      "n": "level of wear resistance",
+      "ty": "select",
+      "me": [
+       "Ac4"
+      ],
+      "pr": [
+       "Ac4"
+      ],
+      "af": [
+       "NA"
+      ],
+      "op": [
+       "1279:Ac4",
+       "29:NA",
+       "1273:Any Other"
+      ]
+     },
+     {
+      "i": 8,
+      "n": "size of tile/stone",
+      "ty": "select",
+      "me": [
+       "195 X 1200 mm"
+      ],
+      "pr": [
+       "195 X 1200 mm"
+      ],
+      "af": [
+       "195 X 1200 mm",
+       "NA (if marble)"
+      ],
+      "op": [
+       "31:195 X 1200 mm",
+       "32:600 X 600 mm(8% design wastage allowance)",
+       "30:NA (if marble)",
+       "1274:Any Other"
+      ]
+     },
+     {
+      "i": 9,
+      "n": "thickness of tile/stone",
+      "ty": "select",
+      "me": [
+       "10-12 mm"
+      ],
+      "pr": [
+       "10-12 mm"
+      ],
+      "af": [
+       "10-12 mm",
+       "16-18 mm"
+      ],
+      "op": [
+       "36:10 mm",
+       "34:10-12 mm",
+       "33:16-18 mm",
+       "35:8 mm",
+       "1275:Any Other"
+      ]
+     },
+     {
+      "i": 10,
+      "n": "skirting height",
+      "ty": "select",
+      "me": [
+       "75 - 100 mm (Joint of Floor & skirting to match)"
+      ],
+      "pr": [
+       "75 - 100 mm (Joint of Floor & skirting to match)"
+      ],
+      "af": [
+       "75 - 100 mm (Joint of Floor & skirting to match)"
+      ],
+      "op": [
+       "37:60 - 75 mm",
+       "38:75 - 100 mm (Joint of Floor & skirting to match)",
+       "1276:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 3,
+    "t": "Master toilet",
+    "c": null,
+    "f": [
+     {
+      "i": 11,
+      "n": "Type of tile/stone",
+      "ty": "select",
+      "me": [
+       "Vitrified Tiles",
+       "International Stone finish tiles"
+      ],
+      "pr": [
+       "International Stone finish tiles"
+      ],
+      "af": [
+       "International Stone finish tiles",
+       "Imported marble"
+      ],
+      "op": [
+       "40:Imported marble",
+       "39:International Stone finish tiles",
+       "1286:Vitrified Tiles",
+       "41:Any Other"
+      ]
+     },
+     {
+      "i": 12,
+      "n": "Finish of Tile/stone",
+      "ty": "select",
+      "me": [
+       "Anti Skid",
+       "matte"
+      ],
+      "pr": [
+       "Anti Skid",
+       "matte"
+      ],
+      "af": [
+       "Anti Skid",
+       "matte",
+       "NA (if marble)"
+      ],
+      "op": [
+       "42:Ac4",
+       "44:Anti Skid",
+       "46:Levelled cement",
+       "43:Matte",
+       "45:NA",
+       "1287:NA (if marble)",
+       "1277:Any Other"
+      ]
+     },
+     {
+      "i": 13,
+      "n": "Size of tile/stone",
+      "ty": "select",
+      "me": [
+       "1200 x 600 mm (if wastage less than 8 % or depending on layout) other wise 600 mm x 600 mm"
+      ],
+      "pr": [
+       "1200 x 600 mm (if wastage less than 8 % or depending on layout) other wise 600 mm x 600 mm"
+      ],
+      "af": [
+       "1200 x 600 mm (if wastage less than 8 % or depending on layout) other wise 600 mm x 600 mm",
+       "NA (if marble)"
+      ],
+      "op": [
+       "49:1200 x 600 mm (if wastage less than 8 % or depending on layout) other wise 600 mm x 600 mm",
+       "48:195 X 1200 mm",
+       "50:600 X 600 mm(6% design wastage allowance)",
+       "47:NA (if imported marble)",
+       "1288:NA (if marble)",
+       "51:Any Other"
+      ]
+     },
+     {
+      "i": 14,
+      "n": "Thickness of tile/stone",
+      "ty": "select",
+      "me": [
+       "10 mm"
+      ],
+      "pr": [
+       "10 mm"
+      ],
+      "af": [
+       "10 mm",
+       "16-18 mm"
+      ],
+      "op": [
+       "55:10 mm",
+       "53:10-12 mm",
+       "52:16-18 mm",
+       "54:8 mm",
+       "56:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 4,
+    "t": "Other Bedrooms",
+    "c": null,
+    "f": [
+     {
+      "i": 15,
+      "n": "Type of tile/stone",
+      "ty": "select",
+      "me": [
+       "Wooden Flooring (Pre finished Laminated)"
+      ],
+      "pr": [
+       "Wooden Flooring (Pre finished Laminated)"
+      ],
+      "af": [
+       "Wooden Flooring (engineered)"
+      ],
+      "op": [
+       "60:Imported Marble",
+       "59:International Stone finish tiles",
+       "58:Wooden Flooring (engineered)",
+       "57:Wooden Flooring (Pre finished Laminated)",
+       "61:Any Other"
+      ]
+     },
+     {
+      "i": 16,
+      "n": "Finish of Tile/stone",
+      "ty": "select",
+      "me": [
+       "Ac4"
+      ],
+      "pr": [
+       "Ac4"
+      ],
+      "af": [
+       "NA"
+      ],
+      "op": [
+       "62:Ac4",
+       "64:Anti Skid",
+       "66:Levelled cement",
+       "63:Matte",
+       "65:NA",
+       "67:Any Other"
+      ]
+     },
+     {
+      "i": 17,
+      "n": "Size of tile/stone",
+      "ty": "select",
+      "me": [
+       "195 X 1200 mm"
+      ],
+      "pr": [
+       "195 X 1200 mm"
+      ],
+      "af": [
+       "195 X 1200 mm"
+      ],
+      "op": [
+       "69:195 X 1200 mm",
+       "70:600 X 600 mm(6% design wastage allowance)",
+       "68:NA (if imported marble)",
+       "71:Any Other"
+      ]
+     },
+     {
+      "i": 18,
+      "n": " Thickness of tile/stone",
+      "ty": "select",
+      "me": [
+       "10-12 mm"
+      ],
+      "pr": [
+       "10-12 mm"
+      ],
+      "af": [
+       "10-12 mm"
+      ],
+      "op": [
+       "75:10 mm",
+       "73:10-12 mm",
+       "72:16-18 mm",
+       "74:8 mm",
+       "76:Any Other"
+      ]
+     },
+     {
+      "i": 19,
+      "n": "Skirting height",
+      "ty": "select",
+      "me": [
+       "75 - 100 mm (Joint of Floor & skirting to match)"
+      ],
+      "pr": [
+       "75 - 100 mm (Joint of Floor & skirting to match)"
+      ],
+      "af": [
+       "75 - 100 mm (Joint of Floor & skirting to match)"
+      ],
+      "op": [
+       "77:60 - 75 mm",
+       "78:75 - 100 mm (Joint of Floor & skirting to match)",
+       "79:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 5,
+    "t": "Other toilets",
+    "c": null,
+    "f": [
+     {
+      "i": 20,
+      "n": "Finish of Tile/stone",
+      "ty": "select",
+      "me": [
+       "Anti Skid",
+       "matte"
+      ],
+      "pr": [
+       "Anti Skid",
+       "matte"
+      ],
+      "af": [
+       "Anti Skid",
+       "matte",
+       "NA (if marble)"
+      ],
+      "op": [
+       "80:Ac4",
+       "82:Anti Skid",
+       "84:Levelled cement",
+       "81:Matte",
+       "83:NA",
+       "1289:NA (if marble)",
+       "85:Any Other"
+      ]
+     },
+     {
+      "i": 21,
+      "n": "Size of tile/stone",
+      "ty": "select",
+      "me": [
+       "1200 x 600 mm (if wastage less than 8 % or depending on layout) other wise 600 mm x 600 mm"
+      ],
+      "pr": [
+       "1200 x 600 mm (if wastage less than 8 % or depending on layout) other wise 600 mm x 600 mm"
+      ],
+      "af": [
+       "1200 x 600 mm (if wastage less than 8 % or depending on layout) other wise 600 mm x 600 mm",
+       "NA (if marble)"
+      ],
+      "op": [
+       "89:1200 x 600 mm (if wastage less than 8 % or depending on layout) other wise 600 mm x 600 mm",
+       "87:195 X 1200 mm",
+       "88:600 X 600 mm(6% design wastage allowance)",
+       "86:NA (if imported marble)",
+       "1290:NA (if marble)",
+       "90:Any Other"
+      ]
+     },
+     {
+      "i": 22,
+      "n": "Thickness of tile/stone",
+      "ty": "select",
+      "me": [
+       "10 mm"
+      ],
+      "pr": [
+       "10 mm"
+      ],
+      "af": [
+       "10 mm",
+       "16-18 mm (if marble)"
+      ],
+      "op": [
+       "94:10 mm",
+       "92:10-12 mm",
+       "91:16-18 mm",
+       "1291:16-18 mm (if marble)",
+       "93:8 mm",
+       "95:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 6,
+    "t": "Kitchen",
+    "c": null,
+    "f": [
+     {
+      "i": 23,
+      "n": "type of tile/stone",
+      "ty": "select",
+      "me": [
+       "Vitrified Tiles",
+       "Imported marble"
+      ],
+      "pr": [
+       "Imported Marble"
+      ],
+      "af": [
+       "Imported Marble"
+      ],
+      "op": [
+       "100:Imported Marble",
+       "99:International Stone finish tiles",
+       "96:Vitrified Tiles",
+       "98:Wooden Flooring (engineered)",
+       "97:Wooden Flooring (Pre finished Laminated)",
+       "101:Any Other"
+      ]
+     },
+     {
+      "i": 24,
+      "n": "finish of tile/stone",
+      "ty": "select",
+      "me": [
+       "Glossy",
+       "NA (if marble)"
+      ],
+      "pr": [
+       "NA"
+      ],
+      "af": [
+       "NA"
+      ],
+      "op": [
+       "103:Ac4",
+       "105:Anti Skid",
+       "102:Glossy",
+       "107:Levelled cement",
+       "104:Matte",
+       "106:NA",
+       "1292:NA (if marble)",
+       "108:Any Other"
+      ]
+     },
+     {
+      "i": 25,
+      "n": "size of tile/stone",
+      "ty": "select",
+      "me": [
+       "1200 X 600 mm",
+       "1600 X 800 mm (7% design wastage allowance for 1200X600mm)",
+       "NA (if imported marble)"
+      ],
+      "pr": [
+       "NA (if imported marble)"
+      ],
+      "af": [
+       "NA (if imported marble)"
+      ],
+      "op": [
+       "1293:1200 X 600 mm",
+       "109:1200 X 600 mm(7% design wastage allowance)",
+       "1294:1600 X 800 mm (7% design wastage allowance for 1200X600mm)",
+       "111:195 X 1200 mm",
+       "112:600 X 600 mm(8% design wastage allowance)",
+       "110:NA (if imported marble)",
+       "113:Any Other"
+      ]
+     },
+     {
+      "i": 26,
+      "n": "thickness of tile/stone",
+      "ty": "select",
+      "me": [
+       "10 mm",
+       "16-18 mm (if marble)"
+      ],
+      "pr": [
+       "16-18 mm"
+      ],
+      "af": [
+       "16-18 mm"
+      ],
+      "op": [
+       "117:10 mm",
+       "115:10-12 mm",
+       "114:16-18 mm",
+       "1296:16-18 mm (if marble)",
+       "116:8 mm",
+       "118:Any Other"
+      ]
+     },
+     {
+      "i": 27,
+      "n": "skirting height",
+      "ty": "select",
+      "me": [
+       "75 - 100 mm (Joint of Floor & skirting to match)"
+      ],
+      "pr": [
+       "75 - 100 mm (Joint of Floor & skirting to match)"
+      ],
+      "af": [
+       "75 - 100 mm (Joint of Floor & skirting to match)"
+      ],
+      "op": [
+       "119:60 - 75 mm",
+       "120:75 - 100 mm (Joint of Floor & skirting to match)",
+       "121:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 7,
+    "t": "Servant room",
+    "c": null,
+    "f": [
+     {
+      "i": 28,
+      "n": "Type of tile/stone",
+      "ty": "select",
+      "me": [
+       "Vitrified Tiles"
+      ],
+      "pr": [
+       "Vitrified Tiles"
+      ],
+      "af": [
+       "Vitrified Tiles"
+      ],
+      "op": [
+       "124:Vitrified Tiles",
+       "123:Wooden Flooring (engineered)",
+       "122:Wooden Flooring (Pre finished Laminated)",
+       "125:Any Other"
+      ]
+     },
+     {
+      "i": 29,
+      "n": "Finish of Tile/stone",
+      "ty": "select",
+      "me": [
+       "Matte"
+      ],
+      "pr": [
+       "Matte"
+      ],
+      "af": [
+       "Matte"
+      ],
+      "op": [
+       "126:Ac4",
+       "128:Anti Skid",
+       "131:Levelled cement",
+       "127:Matte",
+       "129:NA",
+       "130:Any Other"
+      ]
+     },
+     {
+      "i": 30,
+      "n": "Size of tile/stone",
+      "ty": "select",
+      "me": [
+       "600 X 600 mm (6% design wastage allowance)"
+      ],
+      "pr": [
+       "600 X 600 mm (6% design wastage allowance)"
+      ],
+      "af": [
+       "600 X 600 mm (6% design wastage allowance)"
+      ],
+      "op": [
+       "133:195 X 1200 mm",
+       "134:600 X 600 mm (6% design wastage allowance)",
+       "132:NA (if imported marble)",
+       "135:Any Other"
+      ]
+     },
+     {
+      "i": 31,
+      "n": "Thickness of tile/stone",
+      "ty": "select",
+      "me": [
+       "10 mm"
+      ],
+      "pr": [
+       "10 mm"
+      ],
+      "af": [
+       "10 mm"
+      ],
+      "op": [
+       "139:10 mm",
+       "137:10-12 mm",
+       "136:16-18 mm",
+       "138:8 mm",
+       "140:Any Other"
+      ]
+     },
+     {
+      "i": 32,
+      "n": "Skirting height",
+      "ty": "select",
+      "me": [
+       "75 - 100 mm (Joint of Floor & skirting to match)"
+      ],
+      "pr": [
+       "75 - 100 mm (Joint of Floor & skirting to match)"
+      ],
+      "af": [
+       "75 - 100 mm (Joint of Floor & skirting to match)"
+      ],
+      "op": [
+       "141:60 - 75 mm",
+       "142:75 - 100 mm (Joint of Floor & skirting to match)",
+       "143:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 8,
+    "t": "Utility Balcony",
+    "c": null,
+    "f": [
+     {
+      "i": 33,
+      "n": "Type of tile/stone",
+      "ty": "select",
+      "me": [
+       "Vitrified Tiles"
+      ],
+      "pr": [
+       "Vitrified Tiles"
+      ],
+      "af": [
+       "Vitrified Tiles"
+      ],
+      "op": [
+       "147:Imported Marble",
+       "146:International Stone finish tiles",
+       "149:Vitrified Tiles",
+       "148:Wooden Deck",
+       "145:Wooden Flooring (engineered)",
+       "144:Wooden Flooring (Pre finished Laminated)",
+       "150:Any Other"
+      ]
+     },
+     {
+      "i": 34,
+      "n": "Finish of Tile/stone",
+      "ty": "select",
+      "me": [
+       "Anti Skid"
+      ],
+      "pr": [
+       "Anti Skid"
+      ],
+      "af": [
+       "Anti Skid"
+      ],
+      "op": [
+       "151:Ac4",
+       "153:Anti Skid",
+       "155:Levelled cement",
+       "152:Matte",
+       "154:NA",
+       "156:Any Other"
+      ]
+     },
+     {
+      "i": 35,
+      "n": "Size of tile/stone",
+      "ty": "select",
+      "me": [
+       "600 X 600 mm (8% design wastage allowance)"
+      ],
+      "pr": [
+       "600 X 600 mm (8% design wastage allowance)"
+      ],
+      "af": [
+       "600 X 600 mm (8% design wastage allowance)"
+      ],
+      "op": [
+       "158:195 X 1200 mm",
+       "160:600 X 600 mm (8% design wastage allowance)",
+       "159:600 X 600 mm(6% design wastage allowance)",
+       "157:NA (if imported marble)",
+       "161:Any Other"
+      ]
+     },
+     {
+      "i": 36,
+      "n": "Thickness of tile/stone",
+      "ty": "select",
+      "me": [
+       "10 mm"
+      ],
+      "pr": [
+       "10 mm"
+      ],
+      "af": [
+       "10 mm"
+      ],
+      "op": [
+       "165:10 mm",
+       "163:10-12 mm",
+       "162:16-18 mm",
+       "164:8 mm",
+       "166:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 9,
+    "t": "Other balconies",
+    "c": null,
+    "f": [
+     {
+      "i": 37,
+      "n": "Type of tile/stone",
+      "ty": "select",
+      "me": [
+       "Vitrified Tiles"
+      ],
+      "pr": [
+       "Vitrified Tiles"
+      ],
+      "af": [
+       "Vitrified Tiles"
+      ],
+      "op": [
+       "170:Imported Marble",
+       "169:International Stone finish tiles",
+       "173:Vitrified Tiles",
+       "171:Wooden Deck",
+       "168:Wooden Flooring (engineered)",
+       "167:Wooden Flooring (Pre finished Laminated)",
+       "172:Any Other"
+      ]
+     },
+     {
+      "i": 38,
+      "n": "Finish of Tile/stone",
+      "ty": "select",
+      "me": [
+       "Anti Skid",
+       "Matte"
+      ],
+      "pr": [
+       "Anti Skid",
+       "Matte"
+      ],
+      "af": [
+       "Anti Skid",
+       "Matte"
+      ],
+      "op": [
+       "175:Ac4",
+       "177:Anti Skid",
+       "179:Levelled cement",
+       "176:Matte",
+       "178:NA",
+       "180:Any Other"
+      ]
+     },
+     {
+      "i": 39,
+      "n": "Size of tile/stone",
+      "ty": "select",
+      "me": [
+       "Plank tiles + Spacer"
+      ],
+      "pr": [
+       "Plank tiles + Spacer"
+      ],
+      "af": [
+       "Plank tiles + Spacer"
+      ],
+      "op": [
+       "182:195 X 1200 mm",
+       "183:600 X 600 mm(6% design wastage allowance)",
+       "181:NA (if imported marble)",
+       "184:Plank tiles + Spacer"
+      ]
+     },
+     {
+      "i": 40,
+      "n": "Thickness of tile/stone",
+      "ty": "select",
+      "me": [
+       "10 mm"
+      ],
+      "pr": [
+       "10 mm"
+      ],
+      "af": [
+       "10 mm"
+      ],
+      "op": [
+       "188:10 mm",
+       "186:10-12 mm",
+       "185:16-18 mm",
+       "187:8 mm",
+       "189:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 10,
+    "t": "Powder room",
+    "c": null,
+    "f": [
+     {
+      "i": 41,
+      "n": "Finish of Tile/stone",
+      "ty": "select",
+      "me": [
+       "Anti Skid",
+       "matte"
+      ],
+      "pr": [
+       "Anti Skid",
+       "matte"
+      ],
+      "af": [
+       "Anti Skid",
+       "matte",
+       "NA (if marble)"
+      ],
+      "op": [
+       "190:Ac4",
+       "192:Anti Skid",
+       "194:Levelled cement",
+       "191:Matte",
+       "193:NA",
+       "1297:NA (if marble)",
+       "195:Any Other"
+      ]
+     },
+     {
+      "i": 42,
+      "n": "Size of tile/stone",
+      "ty": "select",
+      "me": [
+       "1200 x 600 mm (if wastage less than 8 % or depending on layout) other wise 600 mm x 600 mm"
+      ],
+      "pr": [
+       "1200 x 600 mm (if wastage less than 8 % or depending on layout) other wise 600 mm x 600 mm"
+      ],
+      "af": [
+       "1200 x 600 mm (if wastage less than 8 % or depending on layout) other wise 600 mm x 600 mm",
+       "NA (if marble)"
+      ],
+      "op": [
+       "199:1200 x 600 mm (if wastage less than 8 % or depending on layout) other wise 600 mm x 600 mm",
+       "197:195 X 1200 mm",
+       "198:600 X 600 mm(6% design wastage allowance)",
+       "196:NA (if marble)",
+       "200:Any Other"
+      ]
+     },
+     {
+      "i": 43,
+      "n": "Thickness of tile/stone",
+      "ty": "select",
+      "me": [
+       "10 mm"
+      ],
+      "pr": [
+       "10 mm"
+      ],
+      "af": [
+       "10 mm",
+       "16-18 mm (if marble)"
+      ],
+      "op": [
+       "204:10 mm",
+       "202:10-12 mm",
+       "201:16-18 mm",
+       "1298:16-18 mm (if marble)",
+       "203:8 mm",
+       "205:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 11,
+    "t": "Puja room & Study \r\nroom",
+    "c": null,
+    "f": [
+     {
+      "i": 44,
+      "n": "type of tile/stone",
+      "ty": "select",
+      "me": [
+       "Vitrified Tiles",
+       "Imported marble"
+      ],
+      "pr": [
+       "Imported Marble"
+      ],
+      "af": [
+       "Imported Marble"
+      ],
+      "op": [
+       "210:Imported Marble",
+       "209:International Stone finish tiles",
+       "206:Vitrified Tiles",
+       "208:Wooden Flooring (engineered)",
+       "207:Wooden Flooring (Pre finished Laminated)",
+       "211:Any Other"
+      ]
+     },
+     {
+      "i": 45,
+      "n": "finish of tile/stone",
+      "ty": "select",
+      "me": [
+       "Glossy",
+       "NA (if marble)"
+      ],
+      "pr": [
+       "NA"
+      ],
+      "af": [
+       "NA"
+      ],
+      "op": [
+       "213:Ac4",
+       "215:Anti Skid",
+       "212:Glossy",
+       "217:Levelled cement",
+       "214:Matte",
+       "216:NA",
+       "1299:NA (if marble)",
+       "218:Any Other"
+      ]
+     },
+     {
+      "i": 46,
+      "n": "size of tile/stone",
+      "ty": "select",
+      "me": [
+       "1200 X 600 mm",
+       "1600 X 800 mm (7% design wastage allowance for 1200X600mm)",
+       "NA (if imported marble)"
+      ],
+      "pr": [
+       "NA (if imported marble)"
+      ],
+      "af": [
+       "NA (if imported marble)"
+      ],
+      "op": [
+       "1300:1200 X 600 mm",
+       "219:1200 X 600 mm(7% design wastage allowance)",
+       "1301:1600 X 800 mm (7% design wastage allowance for 1200X600mm)",
+       "221:195 X 1200 mm",
+       "222:600 X 600 mm(8% design wastage allowance)",
+       "220:NA (if imported marble)",
+       "223:Any Other"
+      ]
+     },
+     {
+      "i": 47,
+      "n": "thickness of tile/stone",
+      "ty": "select",
+      "me": [
+       "10 mm",
+       "16-18 mm (if marble)"
+      ],
+      "pr": [
+       "16-18 mm"
+      ],
+      "af": [
+       "16-18 mm"
+      ],
+      "op": [
+       "227:10 mm",
+       "225:10-12 mm",
+       "224:16-18 mm",
+       "1303:16-18 mm (if marble)",
+       "226:8 mm",
+       "228:Any Other"
+      ]
+     },
+     {
+      "i": 48,
+      "n": "skirting height",
+      "ty": "select",
+      "me": [
+       "75 - 100 mm (Joint of Floor & skirting to match)"
+      ],
+      "pr": [
+       "75 - 100 mm (Joint of Floor & skirting to match)"
+      ],
+      "af": [
+       "75 - 100 mm (Joint of Floor & skirting to match)"
+      ],
+      "op": [
+       "229:60 - 75 mm",
+       "230:75 - 100 mm (Joint of Floor & skirting to match)",
+       "231:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 12,
+    "t": "Foyer",
+    "c": null,
+    "f": [
+     {
+      "i": 49,
+      "n": "type of tile/stone",
+      "ty": "select",
+      "me": [
+       "Vitrified Tiles",
+       "Imported marble"
+      ],
+      "pr": [
+       "Imported Marble"
+      ],
+      "af": [
+       "Imported Marble"
+      ],
+      "op": [
+       "236:Imported Marble",
+       "235:International Stone finish tiles",
+       "232:Vitrified Tiles",
+       "234:Wooden Flooring (engineered)",
+       "233:Wooden Flooring (Pre finished Laminated)",
+       "237:Any Other"
+      ]
+     },
+     {
+      "i": 50,
+      "n": "finish of tile/stone",
+      "ty": "select",
+      "me": [
+       "Glossy",
+       "NA (if marble)"
+      ],
+      "pr": [
+       "NA"
+      ],
+      "af": [
+       "NA"
+      ],
+      "op": [
+       "239:Ac4",
+       "241:Anti Skid",
+       "238:Glossy",
+       "243:Levelled cement",
+       "240:Matte",
+       "242:NA",
+       "1304:NA (if marble)",
+       "244:Any Other"
+      ]
+     },
+     {
+      "i": 51,
+      "n": "size of tile/stone",
+      "ty": "select",
+      "me": [
+       "1200 X 600 mm",
+       "1600 X 800 mm (7% design wastage allowance for 1200X600mm)",
+       "NA (if imported marble)"
+      ],
+      "pr": [
+       "NA (if imported marble)"
+      ],
+      "af": [
+       "NA (if imported marble)"
+      ],
+      "op": [
+       "1305:1200 X 600 mm",
+       "245:1200 X 600 mm(7% design wastage allowance)",
+       "1306:1600 X 800 mm (7% design wastage allowance for 1200X600mm)",
+       "247:195 X 1200 mm",
+       "248:600 X 600 mm(8% design wastage allowance)",
+       "246:NA (if imported marble)",
+       "249:Any Other"
+      ]
+     },
+     {
+      "i": 52,
+      "n": "thickness of tile/stone",
+      "ty": "select",
+      "me": [
+       "10 mm",
+       "16-18 mm (if marble)"
+      ],
+      "pr": [
+       "16-18 mm"
+      ],
+      "af": [
+       "16-18 mm"
+      ],
+      "op": [
+       "253:10 mm",
+       "251:10-12 mm",
+       "250:16-18 mm",
+       "1308:16-18 mm (if marble)",
+       "252:8 mm",
+       "254:Any Other"
+      ]
+     },
+     {
+      "i": 53,
+      "n": "skirting height",
+      "ty": "select",
+      "me": [
+       "75 - 100 mm (Joint of Floor & skirting to match)"
+      ],
+      "pr": [
+       "75 - 100 mm (Joint of Floor & skirting to match)"
+      ],
+      "af": [
+       "75 - 100 mm (Joint of Floor & skirting to match)"
+      ],
+      "op": [
+       "255:60 - 75 mm",
+       "256:75 - 100 mm (Joint of Floor & skirting to match)",
+       "257:Any Other"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "mod": 2,
+  "id": 2,
+  "t": "Wall",
+  "n": 2,
+  "last": false,
+  "secs": [
+   {
+    "id": 13,
+    "t": "Living & Dining",
+    "c": null,
+    "f": [
+     {
+      "i": 54,
+      "n": "Type of paint",
+      "ty": "select",
+      "me": [
+       "Acrylic emulsion"
+      ],
+      "pr": [
+       "Acrylic emulsion"
+      ],
+      "af": [
+       "Acrylic emulsion (Textured paint, designer wall)"
+      ],
+      "op": [
+       "258:Acrylic emulsion",
+       "1309:Acrylic emulsion (Textured paint, designer wall)",
+       "259:OBD",
+       "261:Any Other"
+      ]
+     },
+     {
+      "i": 55,
+      "n": "Thickness of plaster",
+      "ty": "select",
+      "me": [
+       "12 mm (average)"
+      ],
+      "pr": [
+       "12 mm (average)"
+      ],
+      "af": [
+       "12 mm (average)"
+      ],
+      "op": [
+       "262:12 mm (average)",
+       "264:Any Other"
+      ]
+     },
+     {
+      "i": 56,
+      "n": " Type of Plaster",
+      "ty": "select",
+      "me": [
+       "Gypsum plaster"
+      ],
+      "pr": [
+       "NA"
+      ],
+      "af": [
+       "Gypsum plaster"
+      ],
+      "op": [
+       "265:Gypsum plaster",
+       "266:NA",
+       "267:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 14,
+    "t": "Master \r\nBedroom",
+    "c": null,
+    "f": [
+     {
+      "i": 57,
+      "n": " Type of paint",
+      "ty": "select",
+      "me": [
+       "Acrylic emulsion"
+      ],
+      "pr": [
+       "Acrylic emulsion"
+      ],
+      "af": [
+       "Acrylic emulsion"
+      ],
+      "op": [
+       "268:Acrylic emulsion",
+       "269:OBD",
+       "270:Any Other"
+      ]
+     },
+     {
+      "i": 58,
+      "n": "Thickness of plaster",
+      "ty": "select",
+      "me": [
+       "12 mm (average)"
+      ],
+      "pr": [
+       "12 mm (average)"
+      ],
+      "af": [
+       "12 mm (average)"
+      ],
+      "op": [
+       "271:12 mm (average)",
+       "272:Any Other"
+      ]
+     },
+     {
+      "i": 59,
+      "n": " Type of Plaster",
+      "ty": "select",
+      "me": [
+       "Gypsum plaster"
+      ],
+      "pr": [
+       "Gypsum plaster"
+      ],
+      "af": [
+       "Gypsum plaster"
+      ],
+      "op": [
+       "273:Gypsum plaster",
+       "274:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 15,
+    "t": " Master Toilet",
+    "c": null,
+    "f": [
+     {
+      "i": 60,
+      "n": "Type of tile/stone",
+      "ty": "select",
+      "me": [
+       "Vitrified Tile (stone finish)"
+      ],
+      "pr": [
+       "Vitrified Tile (stone finish)",
+       "Imported Marble"
+      ],
+      "af": [
+       "Vitrified Tile (stone finish)",
+       "Imported Marble"
+      ],
+      "op": [
+       "275:Ceramic tiles",
+       "277:Imported Marble",
+       "276:International Stone finish tile",
+       "278:Vitrified Tile (stone finish)",
+       "279:Any Other"
+      ]
+     },
+     {
+      "i": 61,
+      "n": "Tile/stone finish",
+      "ty": "select",
+      "me": [
+       "Glazed",
+       "Glossy"
+      ],
+      "pr": [
+       "Glazed",
+       "Glossy",
+       "NA (if marble)"
+      ],
+      "af": [
+       "Glazed",
+       "Glossy",
+       "NA (if marble)"
+      ],
+      "op": [
+       "280:Glazed",
+       "281:Glossy",
+       "282:NA (if marble)",
+       "283:Any Other"
+      ]
+     },
+     {
+      "i": 62,
+      "n": "Size of tile/stone",
+      "ty": "select",
+      "me": [
+       "1200 X 600 mm (8% design wastage allowance)"
+      ],
+      "pr": [
+       "1200 X 600 mm (8% design wastage allowance)",
+       "NA (if marble)"
+      ],
+      "af": [
+       "1200 X 600 mm",
+       "NA (if marble)"
+      ],
+      "op": [
+       "1310:1200 X 600 mm",
+       "284:1200 X 600 mm (8% design wastage allowance)",
+       "285:NA (if marble)",
+       "286:Any Other"
+      ]
+     },
+     {
+      "i": 63,
+      "n": " Thickness of tile/stone",
+      "ty": "select",
+      "me": [
+       "10 mm"
+      ],
+      "pr": [
+       "10 mm",
+       "16-18 mm (if marble)"
+      ],
+      "af": [
+       "10 mm",
+       "16-18 mm (if marble)"
+      ],
+      "op": [
+       "287:10 mm",
+       "288:16 - 18 mm",
+       "1311:16-18 mm (if marble)",
+       "289:Any Other"
+      ]
+     },
+     {
+      "i": 64,
+      "n": "Vertical distance till tile/stone to be put",
+      "ty": "select",
+      "me": [
+       "Min. 50 mm above false ceiling"
+      ],
+      "pr": [
+       "Min. 50 mm above false ceiling"
+      ],
+      "af": [
+       "Min. 50 mm above false ceiling"
+      ],
+      "op": [
+       "290:50 mm above false ceiling",
+       "291:Min. 50 mm above false ceiling",
+       "292:Any Other"
+      ]
+     },
+     {
+      "i": 65,
+      "n": " Thickness of plaster",
+      "ty": "select",
+      "me": [
+       "12 mm (average)"
+      ],
+      "pr": [
+       "12 mm (average)"
+      ],
+      "af": [
+       "12 mm (average)"
+      ],
+      "op": [
+       "293:12 mm (average)",
+       "294:Any Other"
+      ]
+     },
+     {
+      "i": 66,
+      "n": "Type of plaster (inside false ceiling)",
+      "ty": "select",
+      "me": [
+       "Gypsum plaster"
+      ],
+      "pr": [
+       "Gypsum plaster"
+      ],
+      "af": [
+       "Gypsum plaster"
+      ],
+      "op": [
+       "295:Gypsum plaster",
+       "296:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 16,
+    "t": "Other Bedroom",
+    "c": null,
+    "f": [
+     {
+      "i": 67,
+      "n": "Type of paint",
+      "ty": "select",
+      "me": [
+       "Acrylic emulsion"
+      ],
+      "pr": [
+       "Acrylic emulsion"
+      ],
+      "af": [
+       "Acrylic emulsion"
+      ],
+      "op": [
+       "297:Acrylic emulsion",
+       "298:OBD",
+       "299:Any Other"
+      ]
+     },
+     {
+      "i": 68,
+      "n": " Thickness of plaster",
+      "ty": "select",
+      "me": [
+       "12 mm (average)"
+      ],
+      "pr": [
+       "12 mm (average)"
+      ],
+      "af": [
+       "12 mm (average)"
+      ],
+      "op": [
+       "300:12 mm (average)",
+       "301:Any Other"
+      ]
+     },
+     {
+      "i": 69,
+      "n": "Type of Plaster",
+      "ty": "select",
+      "me": [
+       "Gypsum plaster"
+      ],
+      "pr": [
+       "Gypsum plaster"
+      ],
+      "af": [
+       "Gypsum plaster"
+      ],
+      "op": [
+       "302:Gypsum plaster",
+       "303:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 17,
+    "t": "Kitchen",
+    "c": null,
+    "f": [
+     {
+      "i": 70,
+      "n": "Vertical distance till tile/stone to be put (backsplash)",
+      "ty": "select",
+      "me": [
+       "upto 2 feet above counter top"
+      ],
+      "pr": [
+       "upto 2 feet above counter top"
+      ],
+      "af": [
+       "upto 2 feet above counter top"
+      ],
+      "op": [
+       "304:upto 2 feet above counter top",
+       "305:Any Other"
+      ]
+     },
+     {
+      "i": 71,
+      "n": "Type of tile",
+      "ty": "select",
+      "me": [
+       "Full body heat resistant tile",
+       "Granite"
+      ],
+      "pr": [
+       "Full body heat resistant tile",
+       "Granite"
+      ],
+      "af": [
+       "International tile",
+       "Quartz stone"
+      ],
+      "op": [
+       "306:Full body heat resistant tile",
+       "309:Granite",
+       "307:International tile",
+       "308:Quartz stone",
+       "310:Any Other"
+      ]
+     },
+     {
+      "i": 72,
+      "n": "Tile finish",
+      "ty": "select",
+      "me": [
+       "Glazed",
+       "Glossy"
+      ],
+      "pr": [
+       "Glazed",
+       "Glossy"
+      ],
+      "af": [
+       "Glazed",
+       "Glossy",
+       "NA"
+      ],
+      "op": [
+       "311:Glazed",
+       "312:Glossy",
+       "1312:NA",
+       "313:Any Other"
+      ]
+     },
+     {
+      "i": 73,
+      "n": "Tile Size",
+      "ty": "select",
+      "me": [
+       "1200 X 600 mm"
+      ],
+      "pr": [
+       "1200 X 600 mm"
+      ],
+      "af": [
+       "1200 X 600 mm"
+      ],
+      "op": [
+       "314:1200 X 600 mm",
+       "315:Any Other"
+      ]
+     },
+     {
+      "i": 74,
+      "n": " Tile Thickness",
+      "ty": "select",
+      "me": [
+       "10-12 mm"
+      ],
+      "pr": [
+       "10-12 mm",
+       "Granite - 16 to 18 mm"
+      ],
+      "af": [
+       "10-12 mm",
+       "Quartz- 18 to 20 mm"
+      ],
+      "op": [
+       "316:10-12 mm",
+       "318:Granite - 16 to 18 mm",
+       "317:Quartz- 18 to 20 mm",
+       "319:Any Other"
+      ]
+     },
+     {
+      "i": 75,
+      "n": " Type of paint in vacant area",
+      "ty": "select",
+      "me": [
+       "Acrylic emulsion; washable paint"
+      ],
+      "pr": [
+       "Acrylic emulsion; washable paint"
+      ],
+      "af": [
+       "Acrylic emulsion; washable paint"
+      ],
+      "op": [
+       "320:Acrylic emulsion; washable paint",
+       "321:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 18,
+    "t": "Servant Room",
+    "c": null,
+    "f": [
+     {
+      "i": 76,
+      "n": "Type of paint",
+      "ty": "select",
+      "me": [
+       "OBD"
+      ],
+      "pr": [
+       "OBD"
+      ],
+      "af": [
+       "OBD",
+       "Acrylic emulsion"
+      ],
+      "op": [
+       "322:Acrylic emulsion",
+       "323:OBD",
+       "324:Any Other"
+      ]
+     },
+     {
+      "i": 77,
+      "n": "Thickness of plaster",
+      "ty": "select",
+      "me": [
+       "12 mm (average)"
+      ],
+      "pr": [
+       "12 mm (average)"
+      ],
+      "af": [
+       "12 mm (average)"
+      ],
+      "op": [
+       "325:12 mm (average)",
+       "326:Any Other"
+      ]
+     },
+     {
+      "i": 78,
+      "n": " Type of Plaster",
+      "ty": "select",
+      "me": [
+       "Gypsum plaster"
+      ],
+      "pr": [
+       "Gypsum plaster"
+      ],
+      "af": [
+       "Gypsum plaster"
+      ],
+      "op": [
+       "327:Gypsum plaster",
+       "328:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 19,
+    "t": "Balconies",
+    "c": null,
+    "f": [
+     {
+      "i": 79,
+      "n": " Color of paint",
+      "ty": "select",
+      "me": [
+       "Matching external"
+      ],
+      "pr": [
+       "Matching external"
+      ],
+      "af": [
+       "Matching external"
+      ],
+      "op": [
+       "329:Matching external",
+       "330:Any Other"
+      ]
+     },
+     {
+      "i": 80,
+      "n": "Type of paint",
+      "ty": "select",
+      "me": [
+       "Exterior grade, weatherproof"
+      ],
+      "pr": [
+       "Exterior grade, weatherproof"
+      ],
+      "af": [
+       "Exterior grade, weatherproof"
+      ],
+      "op": [
+       "331:Acrylic emulsion",
+       "333:Exterior grade, weatherproof",
+       "332:OBD",
+       "334:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 20,
+    "t": "Powder room",
+    "c": null,
+    "f": [
+     {
+      "i": 81,
+      "n": "Type of tile/stone",
+      "ty": "select",
+      "me": [
+       "Vitrified Tile (stone finish)"
+      ],
+      "pr": [
+       "Vitrified Tile (stone finish)",
+       "Imported Marble"
+      ],
+      "af": [
+       "Vitrified Tile (stone finish)",
+       "Imported Marble"
+      ],
+      "op": [
+       "335:Ceramic tiles",
+       "337:Imported Marble",
+       "336:International Stone finish tile",
+       "338:Vitrified Tile (stone finish)",
+       "339:Any Other"
+      ]
+     },
+     {
+      "i": 82,
+      "n": "Tile/stone finish",
+      "ty": "select",
+      "me": [
+       "Glazed",
+       "Glossy"
+      ],
+      "pr": [
+       "Glazed",
+       "Glossy",
+       "NA (if marble)"
+      ],
+      "af": [
+       "Glazed",
+       "Glossy",
+       "NA (if marble)"
+      ],
+      "op": [
+       "340:Glazed",
+       "341:Glossy",
+       "342:NA (if marble)",
+       "343:Any Other"
+      ]
+     },
+     {
+      "i": 83,
+      "n": "Size of tile/stone",
+      "ty": "select",
+      "me": [
+       "1200 X 600 mm (8% design wastage allowance)"
+      ],
+      "pr": [
+       "1200 X 600 mm (8% design wastage allowance)",
+       "NA (if marble)"
+      ],
+      "af": [
+       "1200 X 600 mm",
+       "NA (if marble)"
+      ],
+      "op": [
+       "1313:1200 X 600 mm",
+       "344:1200 X 600 mm (8% design wastage allowance)",
+       "345:NA (if marble)",
+       "346:Any Other"
+      ]
+     },
+     {
+      "i": 84,
+      "n": " Thickness of tile/stone",
+      "ty": "select",
+      "me": [
+       "10 mm"
+      ],
+      "pr": [
+       "10 mm",
+       "16-18 mm (if marble)"
+      ],
+      "af": [
+       "10 mm",
+       "16-18 mm (if marble)"
+      ],
+      "op": [
+       "347:10 mm",
+       "348:16 - 18 mm",
+       "1314:16-18 mm (if marble)",
+       "349:Any Other"
+      ]
+     },
+     {
+      "i": 85,
+      "n": "Vertical distance till tile/stone to be put",
+      "ty": "select",
+      "me": [
+       "Min. 50 mm above false ceiling"
+      ],
+      "pr": [
+       "Min. 50 mm above false ceiling"
+      ],
+      "af": [
+       "Min. 50 mm above false ceiling"
+      ],
+      "op": [
+       "350:50 mm above false ceiling",
+       "351:Min. 50 mm above false ceiling",
+       "352:Any Other"
+      ]
+     },
+     {
+      "i": 86,
+      "n": " Thickness of plaster",
+      "ty": "select",
+      "me": [
+       "12 mm (average)"
+      ],
+      "pr": [
+       "12 mm (average)"
+      ],
+      "af": [
+       "12 mm (average)"
+      ],
+      "op": [
+       "353:12 mm (average)",
+       "354:Any Other"
+      ]
+     },
+     {
+      "i": 87,
+      "n": "Type of plaster (inside false ceiling)",
+      "ty": "select",
+      "me": [
+       "Gypsum plaster"
+      ],
+      "pr": [
+       "Gypsum plaster"
+      ],
+      "af": [
+       "Gypsum plaster"
+      ],
+      "op": [
+       "355:Gypsum plaster",
+       "356:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 21,
+    "t": "Puja room & \r\nStudy room",
+    "c": null,
+    "f": [
+     {
+      "i": 88,
+      "n": " Type of paint",
+      "ty": "select",
+      "me": [
+       "Acrylic emulsion"
+      ],
+      "pr": [
+       "Acrylic emulsion"
+      ],
+      "af": [
+       "Acrylic emulsion"
+      ],
+      "op": [
+       "357:Acrylic emulsion",
+       "358:OBD",
+       "359:Any Other"
+      ]
+     },
+     {
+      "i": 89,
+      "n": "Thickness of plaster",
+      "ty": "select",
+      "me": [
+       "12 mm (average)"
+      ],
+      "pr": [
+       "12 mm (average)"
+      ],
+      "af": [
+       "12 mm (average)"
+      ],
+      "op": [
+       "360:12 mm (average)",
+       "361:Any Other"
+      ]
+     },
+     {
+      "i": 90,
+      "n": " Type of Plaster",
+      "ty": "select",
+      "me": [
+       "Gypsum plaster"
+      ],
+      "pr": [
+       "Gypsum plaster"
+      ],
+      "af": [
+       "Gypsum plaster"
+      ],
+      "op": [
+       "362:Gypsum plaster",
+       "363:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 22,
+    "t": " Foyer",
+    "c": null,
+    "f": [
+     {
+      "i": 91,
+      "n": " Type of paint",
+      "ty": "select",
+      "me": [
+       "Acrylic emulsion"
+      ],
+      "pr": [
+       "Acrylic emulsion"
+      ],
+      "af": [
+       "Acrylic emulsion (Textured paint, designer wall)"
+      ],
+      "op": [
+       "367:12 mm (average)",
+       "364:Acrylic emulsion",
+       "366:Acrylic emulsion (Textured paint, designer wall)",
+       "365:OBD",
+       "368:Any Other"
+      ]
+     },
+     {
+      "i": 92,
+      "n": "Thickness of plaster",
+      "ty": "select",
+      "me": [
+       "12 mm (average)"
+      ],
+      "pr": [
+       "12 mm (average)"
+      ],
+      "af": [
+       "12 mm (average)"
+      ],
+      "op": [
+       "369:12 mm (average)",
+       "370:Gypsum plaster",
+       "371:Any Other"
+      ]
+     },
+     {
+      "i": 93,
+      "n": " Type of Plaster",
+      "ty": "select",
+      "me": [
+       "Gypsum plaster"
+      ],
+      "pr": [
+       "NA"
+      ],
+      "af": [
+       "Gypsum plaster"
+      ],
+      "op": [
+       "372:Gypsum plaster",
+       "1315:NA",
+       "373:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 187,
+    "t": "Other Toilet",
+    "c": null,
+    "f": [
+     {
+      "i": 505,
+      "n": "Type of tile/stone",
+      "ty": "select",
+      "me": [
+       "Vitrified Tile (stone finish)"
+      ],
+      "pr": [
+       "Vitrified Tile (stone finish)",
+       "Imported Marble"
+      ],
+      "af": [
+       "Vitrified Tile (stone finish)",
+       "Imported Marble"
+      ],
+      "op": [
+       "2967:Ceramic tiles",
+       "2969:Imported Marble",
+       "2968:International Stone finish tile",
+       "2970:Vitrified Tile (stone finish)",
+       "2971:Any Other"
+      ]
+     },
+     {
+      "i": 506,
+      "n": "Tile/stone finish",
+      "ty": "select",
+      "me": [
+       "Glazed",
+       "Glossy"
+      ],
+      "pr": [
+       "Glazed",
+       "Glossy",
+       "NA (if marble)"
+      ],
+      "af": [
+       "Glazed",
+       "Glossy",
+       "NA (if marble)"
+      ],
+      "op": [
+       "2972:Glazed",
+       "2973:Glossy",
+       "2974:NA (if marble)",
+       "2975:Any Other"
+      ]
+     },
+     {
+      "i": 507,
+      "n": "Size of tile/stone",
+      "ty": "select",
+      "me": [
+       "1200 X 600 mm (8% design wastage allowance)"
+      ],
+      "pr": [
+       "1200 X 600 mm (8% design wastage allowance)",
+       "NA (if marble)"
+      ],
+      "af": [
+       "1200 X 600 mm",
+       "NA (if marble)"
+      ],
+      "op": [
+       "2979:1200 X 600 mm",
+       "2976:1200 X 600 mm (8% design wastage allowance)",
+       "2977:NA (if marble)",
+       "2978:Any Other"
+      ]
+     },
+     {
+      "i": 508,
+      "n": " Thickness of tile/stone",
+      "ty": "select",
+      "me": [
+       "10 mm"
+      ],
+      "pr": [
+       "10 mm",
+       "16-18 mm (if marble)"
+      ],
+      "af": [
+       "10 mm",
+       "16-18 mm (if marble)"
+      ],
+      "op": [
+       "2980:10 mm",
+       "2981:16 - 18 mm",
+       "2983:16-18 mm (if marble)",
+       "2982:Any Other"
+      ]
+     },
+     {
+      "i": 509,
+      "n": "Vertical distance till tile/stone to be put",
+      "ty": "select",
+      "me": [
+       "Min. 50 mm above false ceiling"
+      ],
+      "pr": [
+       "Min. 50 mm above false ceiling"
+      ],
+      "af": [
+       "Min. 50 mm above false ceiling"
+      ],
+      "op": [
+       "2984:50 mm above false ceiling",
+       "2985:Min. 50 mm above false ceiling",
+       "2986:Any Other"
+      ]
+     },
+     {
+      "i": 510,
+      "n": " Thickness of plaster",
+      "ty": "select",
+      "me": [
+       "12 mm (average)"
+      ],
+      "pr": [
+       "12 mm (average)"
+      ],
+      "af": [
+       "12 mm (average)"
+      ],
+      "op": [
+       "2987:12 mm (average)",
+       "2988:Any Other"
+      ]
+     },
+     {
+      "i": 511,
+      "n": "Type of plaster (inside false ceiling)",
+      "ty": "select",
+      "me": [
+       "Gypsum plaster"
+      ],
+      "pr": [
+       "Gypsum plaster"
+      ],
+      "af": [
+       "Gypsum plaster"
+      ],
+      "op": [
+       "2989:Gypsum plaster",
+       "2990:Any Other"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "mod": 2,
+  "id": 3,
+  "t": "Ceiling",
+  "n": 3,
+  "last": false,
+  "secs": [
+   {
+    "id": 23,
+    "t": " Living & Dining",
+    "c": null,
+    "f": [
+     {
+      "i": 94,
+      "n": "Type of paint",
+      "ty": "select",
+      "me": [
+       "Acrylic emulsion"
+      ],
+      "pr": [
+       "Acrylic emulsion"
+      ],
+      "af": [
+       "Acrylic emulsion"
+      ],
+      "op": [
+       "374:Acrylic emulsion",
+       "375:OBD",
+       "376:Any Other"
+      ]
+     },
+     {
+      "i": 95,
+      "n": "Ceiling work",
+      "ty": "select",
+      "me": [
+       "Partial POP false ceiling",
+       "Boxing",
+       "punning",
+       "puty combination (Trapdoor can be put for ductable AC --> Calcium Silicate Board with MS framework)"
+      ],
+      "pr": [
+       "Partial POP false ceiling",
+       "Boxing",
+       "punning",
+       "puty combination (Trapdoor can be put for ductable AC --> Calcium Silicate Board with MS framework)"
+      ],
+      "af": [
+       "Partial POP false ceiling",
+       "Boxing",
+       "punning",
+       "puty combination (Trapdoor can be put for ductable AC --> Calcium Silicate Board with MS framework)"
+      ],
+      "op": [
+       "1317:Boxing",
+       "377:Partial POP false ceiling",
+       "378:Plastered everywhere in apartment",
+       "1318:punning",
+       "1316:puty combination (Trapdoor can be put for ductable AC --> Calcium Silicate Board with MS framework)",
+       "379:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 24,
+    "t": " Master \r\nBedroom",
+    "c": null,
+    "f": [
+     {
+      "i": 96,
+      "n": "Type of paint",
+      "ty": "select",
+      "me": [
+       "Acrylic emulsion"
+      ],
+      "pr": [
+       "Acrylic emulsion"
+      ],
+      "af": [
+       "Acrylic emulsion"
+      ],
+      "op": [
+       "380:Acrylic emulsion",
+       "381:OBD",
+       "382:Any Other"
+      ]
+     },
+     {
+      "i": 97,
+      "n": "Ceiling work",
+      "ty": "select",
+      "me": [
+       "punning",
+       "puty combination (Trapdoor can be put for ductable AC --> Calcium Silicate Board with MS framework)"
+      ],
+      "pr": [
+       "punning",
+       "puty combination (Trapdoor can be put for ductable AC --> Calcium Silicate Board with MS framework)"
+      ],
+      "af": [
+       "punning",
+       "puty combination (Trapdoor can be put for ductable AC --> Calcium Silicate Board with MS framework)"
+      ],
+      "op": [
+       "383:Partial POP false ceiling/Boxing/punning /puty combination (Trapdoor can be put for ductable AC --> Calcium Silicate Board with MS framework)",
+       "384:Plastered everywhere in apartment",
+       "386:punning",
+       "385:puty combination (Trapdoor can be put for ductable AC --> Calcium Silicate Board with MS framework)",
+       "387:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 25,
+    "t": "Master Toilet",
+    "c": null,
+    "f": [
+     {
+      "i": 98,
+      "n": "Type of false ceiling material",
+      "ty": "select",
+      "me": [
+       "MR ceiling with trapdoor"
+      ],
+      "pr": [
+       "MR ceiling with trapdoor"
+      ],
+      "af": [
+       "MR ceiling with trapdoor"
+      ],
+      "op": [
+       "3003:Grid False Ceiling",
+       "388:MR Ceiling with trapdoor",
+       "389:Any Other"
+      ]
+     },
+     {
+      "i": 99,
+      "n": "Tile Size",
+      "ty": "select",
+      "me": [
+       "Full board"
+      ],
+      "pr": [
+       "Full board"
+      ],
+      "af": [
+       "NA"
+      ],
+      "op": [
+       "390:Full board",
+       "391:NA",
+       "392:Any Other"
+      ]
+     },
+     {
+      "i": 100,
+      "n": "Tile Thickness",
+      "ty": "select",
+      "me": [
+       "12mm"
+      ],
+      "pr": [
+       "12mm"
+      ],
+      "af": [
+       "NA"
+      ],
+      "op": [
+       "393:12mm",
+       "394:NA",
+       "395:Any Other"
+      ]
+     },
+     {
+      "i": 101,
+      "n": "Paint on false roof",
+      "ty": "select",
+      "me": [
+       "Acryclic emulsion"
+      ],
+      "pr": [
+       "Acryclic emulsion"
+      ],
+      "af": [
+       "NA"
+      ],
+      "op": [
+       "396:Acryclic emulsion",
+       "398:NA",
+       "397:OBD",
+       "399:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 26,
+    "t": "Other Bedroom",
+    "c": null,
+    "f": [
+     {
+      "i": 102,
+      "n": "Type of paint",
+      "ty": "select",
+      "me": [
+       "Acrylic emulsion"
+      ],
+      "pr": [
+       "Acrylic emulsion"
+      ],
+      "af": [
+       "Acrylic emulsion"
+      ],
+      "op": [
+       "400:Acrylic emulsion",
+       "401:OBD",
+       "402:Any Other"
+      ]
+     },
+     {
+      "i": 103,
+      "n": " Ceiling work",
+      "ty": "select",
+      "me": [
+       "punning",
+       "puty combination (Trapdoor can be put for ductable AC --> Calcium Silicate Board with MS framework)"
+      ],
+      "pr": [
+       "punning",
+       "puty combination (Trapdoor can be put for ductable AC --> Calcium Silicate Board with MS framework)"
+      ],
+      "af": [
+       "punning",
+       "puty combination (Trapdoor can be put for ductable AC --> Calcium Silicate Board with MS framework)"
+      ],
+      "op": [
+       "1321:Boxing",
+       "403:Partial POP false ceiling",
+       "404:Plastered everywhere in apartment",
+       "1322:punning",
+       "1320:puty combination (Trapdoor can be put for ductable AC --> Calcium Silicate Board with MS framework)",
+       "405:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 27,
+    "t": "Kitchen",
+    "c": null,
+    "f": [
+     {
+      "i": 104,
+      "n": "Type of paint",
+      "ty": "select",
+      "me": [
+       "Acrylic emulsion"
+      ],
+      "pr": [
+       "Acrylic emulsion"
+      ],
+      "af": [
+       "Acrylic emulsion"
+      ],
+      "op": [
+       "406:Acrylic emulsion",
+       "407:OBD",
+       "408:Any Other"
+      ]
+     },
+     {
+      "i": 105,
+      "n": " Ceiling work",
+      "ty": "select",
+      "me": [
+       "punning",
+       "puty combination (Trapdoor can be put for ductable AC --> Calcium Silicate Board with MS framework)"
+      ],
+      "pr": [
+       "punning",
+       "puty combination (Trapdoor can be put for ductable AC --> Calcium Silicate Board with MS framework)"
+      ],
+      "af": [
+       "punning",
+       "puty combination (Trapdoor can be put for ductable AC --> Calcium Silicate Board with MS framework)"
+      ],
+      "op": [
+       "1324:Boxing",
+       "409:Partial POP false ceiling",
+       "410:Plastered everywhere in apartment",
+       "1325:punning",
+       "1323:puty combination (Trapdoor can be put for ductable AC --> Calcium Silicate Board with MS framework)",
+       "411:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 28,
+    "t": "Servant Room",
+    "c": null,
+    "f": [
+     {
+      "i": 106,
+      "n": "Type of paint",
+      "ty": "select",
+      "me": [
+       "OBD"
+      ],
+      "pr": [
+       "OBD"
+      ],
+      "af": [
+       "OBD"
+      ],
+      "op": [
+       "412:Acrylic emulsion",
+       "413:OBD",
+       "414:Any Other"
+      ]
+     },
+     {
+      "i": 107,
+      "n": " Ceiling work",
+      "ty": "select",
+      "me": [
+       "punning",
+       "puty combination"
+      ],
+      "pr": [
+       "punning",
+       "puty combination"
+      ],
+      "af": [
+       "punning",
+       "puty combination"
+      ],
+      "op": [
+       "416:NA",
+       "415:punning",
+       "1326:puty combination",
+       "417:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 29,
+    "t": " Balconies",
+    "c": null,
+    "f": [
+     {
+      "i": 108,
+      "n": " Type of paint",
+      "ty": "select",
+      "me": [
+       "White",
+       "as approved"
+      ],
+      "pr": [
+       "White",
+       "as approved"
+      ],
+      "af": [
+       "White",
+       "as approved"
+      ],
+      "op": [
+       "1327:as approved",
+       "419:As per facade design",
+       "418:White",
+       "420:Any Other"
+      ]
+     },
+     {
+      "i": 109,
+      "n": " Ceiling work",
+      "ty": "select",
+      "me": [
+       "punning",
+       "puty combination"
+      ],
+      "pr": [
+       "punning",
+       "puty combination"
+      ],
+      "af": [
+       "punning",
+       "puty combination"
+      ],
+      "op": [
+       "421:punning",
+       "1328:puty combination",
+       "422:Any Other"
+      ]
+     },
+     {
+      "i": 110,
+      "n": " Color of paint",
+      "ty": "select",
+      "me": [
+       "Acrylic emulsion (Exterior grade, waterproof)"
+      ],
+      "pr": [
+       "Acrylic emulsion (Exterior grade, waterproof)"
+      ],
+      "af": [
+       "Acrylic emulsion (Exterior grade, waterproof)"
+      ],
+      "op": [
+       "423:Acrylic emulsion (Exterior grade, waterproof)",
+       "424:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 30,
+    "t": " Powder room",
+    "c": null,
+    "f": [
+     {
+      "i": 111,
+      "n": "Type of false ceiling material",
+      "ty": "select",
+      "me": [
+       "MR ceiling with trapdoor"
+      ],
+      "pr": [
+       "MR ceiling with trapdoor"
+      ],
+      "af": [
+       "MR ceiling with trapdoor"
+      ],
+      "op": [
+       "3004:Grid False Ceiling",
+       "425:MR Ceiling with trapdoor",
+       "426:Any Other"
+      ]
+     },
+     {
+      "i": 112,
+      "n": " Tile Size",
+      "ty": "select",
+      "me": [
+       "Full board"
+      ],
+      "pr": [
+       "Full board"
+      ],
+      "af": [
+       "NA"
+      ],
+      "op": [
+       "427:Full board",
+       "428:NA",
+       "429:Any Other"
+      ]
+     },
+     {
+      "i": 113,
+      "n": " Tile Thickness",
+      "ty": "select",
+      "me": [
+       "12mm"
+      ],
+      "pr": [
+       "12mm"
+      ],
+      "af": [
+       "NA"
+      ],
+      "op": [
+       "430:12mm",
+       "431:NA",
+       "432:Any Other"
+      ]
+     },
+     {
+      "i": 114,
+      "n": "Paint on false roof",
+      "ty": "select",
+      "me": [
+       "Acryclic emulsion"
+      ],
+      "pr": [
+       "Acryclic emulsion"
+      ],
+      "af": [
+       "NA"
+      ],
+      "op": [
+       "433:Acryclic emulsion",
+       "435:NA",
+       "434:OBD",
+       "436:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 31,
+    "t": " Puja room & \r\n Study room",
+    "c": null,
+    "f": [
+     {
+      "i": 115,
+      "n": "Type of paint",
+      "ty": "select",
+      "me": [
+       "Acrylic emulsion"
+      ],
+      "pr": [
+       "Acrylic emulsion"
+      ],
+      "af": [
+       "Acrylic emulsion"
+      ],
+      "op": [
+       "437:Acrylic emulsion",
+       "438:OBD",
+       "439:Any Other"
+      ]
+     },
+     {
+      "i": 116,
+      "n": "Ceiling work",
+      "ty": "select",
+      "me": [
+       "Partial POP false ceiling",
+       "Boxing",
+       "punning",
+       "puty combination (Trapdoor can be put for ductable AC --> Calcium Silicate Board with MS framework)"
+      ],
+      "pr": [
+       "Partial POP false ceiling",
+       "Boxing",
+       "punning",
+       "puty combination (Trapdoor can be put for ductable AC --> Calcium Silicate Board with MS framework)"
+      ],
+      "af": [
+       "Partial POP false ceiling",
+       "Boxing",
+       "punning",
+       "puty combination (Trapdoor can be put for ductable AC --> Calcium Silicate Board with MS framework)"
+      ],
+      "op": [
+       "1329:Boxing",
+       "440:Partial POP false ceiling",
+       "441:Plastered everywhere in apartment",
+       "1330:punning",
+       "1331:puty combination (Trapdoor can be put for ductable AC --> Calcium Silicate Board with MS framework)",
+       "442:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 32,
+    "t": "Foyer",
+    "c": null,
+    "f": [
+     {
+      "i": 117,
+      "n": "Type of paint",
+      "ty": "select",
+      "me": [
+       "Acrylic emulsion"
+      ],
+      "pr": [
+       "Acrylic emulsion"
+      ],
+      "af": [
+       "Acrylic emulsion"
+      ],
+      "op": [
+       "443:Acrylic emulsion",
+       "444:OBD",
+       "445:Any Other"
+      ]
+     },
+     {
+      "i": 118,
+      "n": "Ceiling work",
+      "ty": "select",
+      "me": [
+       "Partial POP false ceiling",
+       "Boxing",
+       "punning",
+       "puty combination (Trapdoor can be put for ductable AC --> Calcium Silicate Board with MS framework)"
+      ],
+      "pr": [
+       "Partial POP false ceiling",
+       "Boxing",
+       "punning",
+       "puty combination (Trapdoor can be put for ductable AC --> Calcium Silicate Board with MS framework)"
+      ],
+      "af": [
+       "Partial POP false ceiling",
+       "Boxing",
+       "punning",
+       "puty combination (Trapdoor can be put for ductable AC --> Calcium Silicate Board with MS framework)"
+      ],
+      "op": [
+       "1334:Boxing",
+       "446:Partial POP false ceiling",
+       "447:Plastered everywhere in apartment",
+       "1333:punning",
+       "1332:puty combination (Trapdoor can be put for ductable AC --> Calcium Silicate Board with MS framework)",
+       "448:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 188,
+    "t": "Other Toilet",
+    "c": null,
+    "f": [
+     {
+      "i": 512,
+      "n": "Type of false ceiling material",
+      "ty": "select",
+      "me": [
+       "MR ceiling with trapdoor"
+      ],
+      "pr": [
+       "MR ceiling with trapdoor"
+      ],
+      "af": [
+       "MR ceiling with trapdoor"
+      ],
+      "op": [
+       "3006:Grid False Ceiling",
+       "2991:MR Ceiling with trapdoor",
+       "2992:Any Other"
+      ]
+     },
+     {
+      "i": 513,
+      "n": "Tile Size",
+      "ty": "select",
+      "me": [
+       "Full board"
+      ],
+      "pr": [
+       "Full board"
+      ],
+      "af": [
+       "NA"
+      ],
+      "op": [
+       "2993:Full board",
+       "2994:NA",
+       "2995:Any Other"
+      ]
+     },
+     {
+      "i": 514,
+      "n": "Tile Thickness",
+      "ty": "select",
+      "me": [
+       "12mm"
+      ],
+      "pr": [
+       "12mm"
+      ],
+      "af": [
+       "NA"
+      ],
+      "op": [
+       "2996:12mm",
+       "2997:NA",
+       "2998:Any Other"
+      ]
+     },
+     {
+      "i": 515,
+      "n": "Paint on false roof",
+      "ty": "select",
+      "me": [
+       "Acryclic emulsion"
+      ],
+      "pr": [
+       "Acryclic emulsion"
+      ],
+      "af": [
+       "NA"
+      ],
+      "op": [
+       "2999:Acryclic emulsion",
+       "3001:NA",
+       "3000:OBD",
+       "3002:Any Other"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "mod": 2,
+  "id": 4,
+  "t": "Doors, frame, lock",
+  "n": 4,
+  "last": false,
+  "secs": [
+   {
+    "id": 33,
+    "t": "(Door, frame,lock) / Main Entrance ",
+    "c": null,
+    "f": [
+     {
+      "i": 119,
+      "n": "Door opening",
+      "ty": "select",
+      "me": [
+       "1200 min X 2450 mm (for FTF of 3.2m)"
+      ],
+      "pr": [
+       "1200 min X 2450 mm (for FTF of 3.2m)"
+      ],
+      "af": [
+       "1200 min X 2450 mm (for FTF of 3.2m)",
+       "1200 max X 2750 mm (for FTF of 3.4m & above)"
+      ],
+      "op": [
+       "1335:1200 max X 2750 mm (for FTF of 3.4m & above)",
+       "449:1200 min X 2450 mm (for FTF of 3.2m)",
+       "451:750 min. X 2450 mm",
+       "450:900 min. X 2450 mm",
+       "452:900 x 2450 mm",
+       "453:Any Other"
+      ]
+     },
+     {
+      "i": 120,
+      "n": "Type of rebate",
+      "ty": "select",
+      "me": [
+       "Single leaf",
+       "Provision of extra rebate (outer side)"
+      ],
+      "pr": [
+       "Single leaf",
+       "Provision of extra rebate (outer side)"
+      ],
+      "af": [
+       "Single leaf",
+       "Provision of extra rebate (outer side)"
+      ],
+      "op": [
+       "1417:Provision of extra rebate (outer side)",
+       "455:Single",
+       "454:Single leaf",
+       "456:Any Other"
+      ]
+     },
+     {
+      "i": 121,
+      "n": "Shutter type",
+      "ty": "select",
+      "me": [
+       "Flush"
+      ],
+      "pr": [
+       "Flush"
+      ],
+      "af": [
+       "Flush"
+      ],
+      "op": [
+       "457:Flush",
+       "458:Any Other"
+      ]
+     },
+     {
+      "i": 122,
+      "n": " Thickness of door shutter",
+      "ty": "select",
+      "me": [
+       "40 mm"
+      ],
+      "pr": [
+       "40 mm",
+       "42mm"
+      ],
+      "af": [
+       "40 mm",
+       "42mm"
+      ],
+      "op": [
+       "459:32 mm",
+       "460:38 mm",
+       "461:40 mm",
+       "462:42 - 48 mm",
+       "463:42mm",
+       "464:Any Other"
+      ]
+     },
+     {
+      "i": 123,
+      "n": " Finish of Door shutter",
+      "ty": "select",
+      "me": [
+       "Veneer",
+       "laminated"
+      ],
+      "pr": [
+       "Veneer",
+       "laminated"
+      ],
+      "af": [
+       "Veneer"
+      ],
+      "op": [
+       "466:Laminated",
+       "467:Skin Door",
+       "465:Veneer",
+       "468:Any Other"
+      ]
+     },
+     {
+      "i": 124,
+      "n": "Finish of Door shutter (fire rating)",
+      "ty": "select",
+      "me": [
+       "As per NBC",
+       "norms"
+      ],
+      "pr": [
+       "As per NBC",
+       "norms"
+      ],
+      "af": [
+       "As per NBC",
+       "norms"
+      ],
+      "op": [
+       "469:As per NBC",
+       "1336:norms",
+       "470:Any Other"
+      ]
+     },
+     {
+      "i": 125,
+      "n": "Finish of door frame",
+      "ty": "select",
+      "me": [
+       "Factory fitted (modular)",
+       "matching shutter"
+      ],
+      "pr": [
+       "Factory fitted (modular)",
+       "matching shutter"
+      ],
+      "af": [
+       "Factory fitted (modular)",
+       "matching shutter"
+      ],
+      "op": [
+       "471:Factory fitted (modular)",
+       "1407:matching shutter",
+       "472:Any Other"
+      ]
+     },
+     {
+      "i": 126,
+      "n": "Architrave/mouldings",
+      "ty": "select",
+      "me": [
+       "Factory fitted (modular)",
+       "matching shutter"
+      ],
+      "pr": [
+       "Factory fitted (modular)",
+       "matching shutter"
+      ],
+      "af": [
+       "Factory fitted (modular)",
+       "matching shutter"
+      ],
+      "op": [
+       "473:Factory fitted (modular)",
+       "1408:matching shutter",
+       "474:Any Other"
+      ]
+     },
+     {
+      "i": 127,
+      "n": "Other accessories",
+      "ty": "multiselect",
+      "me": [
+       "Eye piece",
+       "Manual door stopper",
+       "Digital Smart Lock/Biometric Lock"
+      ],
+      "pr": [
+       "Eye piece",
+       "Manual door stopper",
+       "Digital Smart Lock/Biometric Lock"
+      ],
+      "af": [
+       "Eye piece",
+       "Manual door stopper",
+       "Digital Smart Lock/Biometric Lock"
+      ],
+      "op": [
+       "477:Digital Smart Lock/Biometric Lock",
+       "475:Eye piece",
+       "476:Manual door stopper",
+       "478:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 34,
+    "t": "(Door, frame,lock) / Master Bedroom",
+    "c": null,
+    "f": [
+     {
+      "i": 128,
+      "n": " Door opening",
+      "ty": "select",
+      "me": [
+       "900 min. X 2450 mm"
+      ],
+      "pr": [
+       "900 X 2250 mm",
+       "900 min. X 2450 mm"
+      ],
+      "af": [
+       "900 min. X 2450 mm"
+      ],
+      "op": [
+       "479:1200 max X 2450 mm (for FTF of 3.2m)",
+       "481:750 min. X 2450 mm",
+       "480:900 min. X 2450 mm",
+       "1356:900 X 2250 mm",
+       "482:900 x 2450 mm",
+       "483:Any Other"
+      ]
+     },
+     {
+      "i": 129,
+      "n": "Type of rebate",
+      "ty": "select",
+      "me": [
+       "Single"
+      ],
+      "pr": [
+       "Single"
+      ],
+      "af": [
+       "Single"
+      ],
+      "op": [
+       "1418:Provision of extra rebate (outer side)",
+       "485:Single",
+       "484:Single leaf",
+       "486:Any Other"
+      ]
+     },
+     {
+      "i": 130,
+      "n": " Shutter type",
+      "ty": "select",
+      "me": [
+       "Flush"
+      ],
+      "pr": [
+       "Flush"
+      ],
+      "af": [
+       "Flush"
+      ],
+      "op": [
+       "487:Flush",
+       "488:NA",
+       "489:Any Other"
+      ]
+     },
+     {
+      "i": 131,
+      "n": " Thickness of door shutter",
+      "ty": "select",
+      "me": [
+       "32 mm"
+      ],
+      "pr": [
+       "32 mm",
+       "38 mm"
+      ],
+      "af": [
+       "38 mm",
+       "40 mm"
+      ],
+      "op": [
+       "490:32 mm",
+       "491:38 mm",
+       "492:40 mm",
+       "493:42 - 48 mm",
+       "494:Any Other"
+      ]
+     },
+     {
+      "i": 132,
+      "n": " Finish of Door shutter",
+      "ty": "select",
+      "me": [
+       "Laminated"
+      ],
+      "pr": [
+       "Laminated",
+       "veneer"
+      ],
+      "af": [
+       "Skin Door",
+       "veneer"
+      ],
+      "op": [
+       "496:Laminated",
+       "497:Skin Door",
+       "495:Veneer",
+       "498:Any Other"
+      ]
+     },
+     {
+      "i": 133,
+      "n": " Finish of door frame",
+      "ty": "multiselect",
+      "me": [
+       "Factory fitted (modular)",
+       "matching shutter"
+      ],
+      "pr": [
+       "Factory fitted (modular)",
+       "matching shutter"
+      ],
+      "af": [
+       "Factory fitted (modular)",
+       "matching shutter"
+      ],
+      "op": [
+       "499:Factory fitted (modular)",
+       "1383:matching shutter",
+       "500:NA",
+       "501:Any Other"
+      ]
+     },
+     {
+      "i": 134,
+      "n": " Architrave/mouldings",
+      "ty": "multiselect",
+      "me": [
+       "Factory fitted (modular)",
+       "matching shutter"
+      ],
+      "pr": [
+       "Factory fitted (modular)",
+       "matching shutter"
+      ],
+      "af": [
+       "Factory fitted (modular)",
+       "matching shutter"
+      ],
+      "op": [
+       "502:Factory fitted (modular)",
+       "1384:matching shutter",
+       "503:NA",
+       "504:Any Other"
+      ]
+     },
+     {
+      "i": 135,
+      "n": "Other accessories",
+      "ty": "multiselect",
+      "me": [
+       "Handle with lock",
+       "Manual door stopper",
+       "Buffer"
+      ],
+      "pr": [
+       "Handle with lock",
+       "Manual door stopper",
+       "Buffer"
+      ],
+      "af": [
+       "Handle with lock",
+       "Manual door stopper",
+       "Buffer"
+      ],
+      "op": [
+       "507:Buffer",
+       "505:Handle with lock",
+       "506:Manual door stopper",
+       "510:NA",
+       "509:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 35,
+    "t": "(Door, frame,lock) / Master Toilet",
+    "c": null,
+    "f": [
+     {
+      "i": 136,
+      "n": "Door opening",
+      "ty": "select",
+      "me": [
+       "800 mm (in exception cases 750 mm) Min. X 2450 mm (2250 mm in case of Services and AC drain)"
+      ],
+      "pr": [
+       "800 mm (in exception cases 750 mm) Min. X 2450 mm (2250 mm in case of Services and AC drain)"
+      ],
+      "af": [
+       "800 mm (in exception cases 750 mm) Min. X 2450 mm (2250 mm in case of Services and AC drain)"
+      ],
+      "op": [
+       "511:1200 max X 2450 mm (for FTF of 3.2m)",
+       "513:750 min. X 2450 mm",
+       "515:800 mm (in exception cases 750 mm) Min. X 2450 mm (2250 mm in case of Services and AC drain)",
+       "512:900 min. X 2450 mm",
+       "514:900 x 2450 mm",
+       "516:Any Other"
+      ]
+     },
+     {
+      "i": 137,
+      "n": "Type of rebate",
+      "ty": "select",
+      "me": [
+       "Single"
+      ],
+      "pr": [
+       "Single"
+      ],
+      "af": [
+       "Single"
+      ],
+      "op": [
+       "1419:Provision of extra rebate (outer side)",
+       "518:Single",
+       "517:Single leaf",
+       "519:Any Other"
+      ]
+     },
+     {
+      "i": 138,
+      "n": " Shutter type",
+      "ty": "select",
+      "me": [
+       "Flush"
+      ],
+      "pr": [
+       "Flush"
+      ],
+      "af": [
+       "Flush"
+      ],
+      "op": [
+       "520:Flush",
+       "521:NA",
+       "522:Any Other"
+      ]
+     },
+     {
+      "i": 139,
+      "n": " Thickness of door shutter",
+      "ty": "multiselect",
+      "me": [
+       "32 mm"
+      ],
+      "pr": [
+       "32 mm",
+       "38 mm"
+      ],
+      "af": [
+       "32 mm",
+       "38 mm"
+      ],
+      "op": [
+       "523:32 mm",
+       "524:38 mm",
+       "525:40 mm",
+       "526:42 - 48 mm",
+       "527:Any Other"
+      ]
+     },
+     {
+      "i": 140,
+      "n": "Finish of Door shutter",
+      "ty": "select",
+      "me": [
+       "Laminated"
+      ],
+      "pr": [
+       "Laminated",
+       "veneer"
+      ],
+      "af": [
+       "Skin Door",
+       "veneer"
+      ],
+      "op": [
+       "529:Laminated",
+       "530:Skin Door",
+       "528:Veneer",
+       "531:Any Other"
+      ]
+     },
+     {
+      "i": 141,
+      "n": "Finish of door frame",
+      "ty": "multiselect",
+      "me": [
+       "Factory fitted (modular)",
+       "matching shutter"
+      ],
+      "pr": [
+       "Factory fitted (modular)",
+       "matching shutter"
+      ],
+      "af": [
+       "Factory fitted (modular)",
+       "matching shutter"
+      ],
+      "op": [
+       "532:Factory fitted (modular)",
+       "1385:matching shutter",
+       "533:NA",
+       "534:Any Other"
+      ]
+     },
+     {
+      "i": 142,
+      "n": " Architrave/mouldings",
+      "ty": "select",
+      "me": [
+       "Factory fitted (modular)",
+       "matching shutter"
+      ],
+      "pr": [
+       "Factory fitted (modular)",
+       "matching shutter"
+      ],
+      "af": [
+       "Factory fitted (modular)",
+       "matching shutter"
+      ],
+      "op": [
+       "535:Factory fitted (modular)",
+       "1409:matching shutter",
+       "536:NA",
+       "537:Any Other"
+      ]
+     },
+     {
+      "i": 143,
+      "n": "Other accessories",
+      "ty": "multiselect",
+      "me": [
+       "Handle with lock"
+      ],
+      "pr": [
+       "Handle with lock",
+       "Handle with thumb turn from inside, coin operated from outside"
+      ],
+      "af": [
+       "Handle with lock"
+      ],
+      "op": [
+       "538:Handle with lock",
+       "1357:Handle with thumb turn from inside, coin operated from outside",
+       "539:NA",
+       "540:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 36,
+    "t": "(Door, frame,lock) / Other Bedroom",
+    "c": null,
+    "f": [
+     {
+      "i": 144,
+      "n": "Door opening",
+      "ty": "select",
+      "me": [
+       "900 min. X 2450 mm"
+      ],
+      "pr": [
+       "900 min. X 2450 mm",
+       "900 X 2250 mm"
+      ],
+      "af": [
+       "900 min. X 2450 mm"
+      ],
+      "op": [
+       "541:1200 max X 2450 mm (for FTF of 3.2m)",
+       "543:750 min. X 2450 mm",
+       "542:900 min. X 2450 mm",
+       "1358:900 X 2250 mm",
+       "544:900 x 2450 mm",
+       "545:Any Other"
+      ]
+     },
+     {
+      "i": 145,
+      "n": "Type of rebate",
+      "ty": "select",
+      "me": [
+       "Single"
+      ],
+      "pr": [
+       "Single"
+      ],
+      "af": [
+       "Single"
+      ],
+      "op": [
+       "1420:Provision of extra rebate (outer side)",
+       "547:Single",
+       "546:Single leaf",
+       "548:Any Other"
+      ]
+     },
+     {
+      "i": 146,
+      "n": " Shutter type",
+      "ty": "select",
+      "me": [
+       "Flush"
+      ],
+      "pr": [
+       "Flush"
+      ],
+      "af": [
+       "Flush"
+      ],
+      "op": [
+       "549:Flush",
+       "550:NA",
+       "551:Any Other"
+      ]
+     },
+     {
+      "i": 147,
+      "n": " Thickness of door shutter",
+      "ty": "select",
+      "me": [
+       "32 mm"
+      ],
+      "pr": [
+       "32 mm",
+       "38 mm"
+      ],
+      "af": [
+       "38 mm",
+       "40 mm"
+      ],
+      "op": [
+       "552:32 mm",
+       "553:38 mm",
+       "554:40 mm",
+       "555:42 - 48 mm",
+       "556:Any Other"
+      ]
+     },
+     {
+      "i": 148,
+      "n": "Finish of Door shutter",
+      "ty": "select",
+      "me": [
+       "Laminated"
+      ],
+      "pr": [
+       "Laminated",
+       "veneer"
+      ],
+      "af": [
+       "Skin Door",
+       "veneer"
+      ],
+      "op": [
+       "558:Laminated",
+       "559:Skin Door",
+       "557:Veneer",
+       "560:Any Other"
+      ]
+     },
+     {
+      "i": 149,
+      "n": "Finish of door frame",
+      "ty": "multiselect",
+      "me": [
+       "Factory fitted (modular)",
+       "matching shutter"
+      ],
+      "pr": [
+       "Factory fitted (modular)",
+       "matching shutter"
+      ],
+      "af": [
+       "Factory fitted (modular)",
+       "matching shutter"
+      ],
+      "op": [
+       "561:Factory fitted (modular)",
+       "1410:matching shutter",
+       "562:Any Other"
+      ]
+     },
+     {
+      "i": 150,
+      "n": " Architrave/mouldings",
+      "ty": "select",
+      "me": [
+       "Factory fitted (modular)",
+       "matching shutter"
+      ],
+      "pr": [
+       "Factory fitted (modular)",
+       "matching shutter"
+      ],
+      "af": [
+       "Factory fitted (modular)",
+       "matching shutter"
+      ],
+      "op": [
+       "563:Factory fitted (modular)",
+       "1411:matching shutter",
+       "564:Any Other"
+      ]
+     },
+     {
+      "i": 151,
+      "n": "Other accessories",
+      "ty": "multiselect",
+      "me": [
+       "Handle with lock",
+       "Manual door stopper",
+       "Buffer",
+       "Handle with thumb turn from inside, coin operated from outside"
+      ],
+      "pr": [
+       "Handle with lock",
+       "Manual door stopper",
+       "Buffer",
+       "Handle with thumb turn from inside, coin operated from outside"
+      ],
+      "af": [
+       "Handle with lock",
+       "Manual door stopper",
+       "Buffer",
+       "Handle with thumb turn from inside, coin operated from outside"
+      ],
+      "op": [
+       "1426:Buffer",
+       "567:Digital Smart Lock/Biometric Lock",
+       "1337:Handle with lock",
+       "1359:Handle with thumb turn from inside, coin operated from outside",
+       "566:Manual door stopper",
+       "568:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 37,
+    "t": "(Door, frame,lock) / Other Toilets",
+    "c": null,
+    "f": [
+     {
+      "i": 152,
+      "n": "Door opening",
+      "ty": "select",
+      "me": [
+       "800 mm (in exception cases 750 mm) Min. X 2450 mm (2250 mm in case of Services and AC drain)"
+      ],
+      "pr": [
+       "800 mm (in exception cases 750 mm) Min. X 2450 mm (2250 mm in case of Services and AC drain)"
+      ],
+      "af": [
+       "800 mm (in exception cases 750 mm) Min. X 2450 mm (2250 mm in case of Services and AC drain)"
+      ],
+      "op": [
+       "569:1200 max X 2450 mm (for FTF of 3.2m)",
+       "571:750 min. X 2450 mm",
+       "1338:800 mm (in exception cases 750 mm) Min. X 2450 mm (2250 mm in case of Services and AC drain)",
+       "570:900 min. X 2450 mm",
+       "572:900 x 2450 mm",
+       "573:Any Other"
+      ]
+     },
+     {
+      "i": 153,
+      "n": "Type of rebate",
+      "ty": "select",
+      "me": [
+       "Single"
+      ],
+      "pr": [
+       "Single"
+      ],
+      "af": [
+       "Single"
+      ],
+      "op": [
+       "1421:Provision of extra rebate (outer side)",
+       "575:Single",
+       "574:Single leaf",
+       "576:Any Other"
+      ]
+     },
+     {
+      "i": 154,
+      "n": " Shutter type",
+      "ty": "select",
+      "me": [
+       "Flush"
+      ],
+      "pr": [
+       "Flush"
+      ],
+      "af": [
+       "Flush"
+      ],
+      "op": [
+       "577:Flush",
+       "578:NA",
+       "579:Any Other"
+      ]
+     },
+     {
+      "i": 155,
+      "n": " Thickness of door shutter",
+      "ty": "select",
+      "me": [
+       "32 mm"
+      ],
+      "pr": [
+       "32 mm",
+       "38 mm"
+      ],
+      "af": [
+       "32 mm",
+       "38 mm"
+      ],
+      "op": [
+       "580:32 mm",
+       "581:38 mm",
+       "582:40 mm",
+       "583:42 - 48 mm",
+       "584:Any Other"
+      ]
+     },
+     {
+      "i": 156,
+      "n": "Finish of Door shutter",
+      "ty": "select",
+      "me": [
+       "Laminated"
+      ],
+      "pr": [
+       "Laminated",
+       "veneer"
+      ],
+      "af": [
+       "Skin Door",
+       "veneer"
+      ],
+      "op": [
+       "586:Laminated",
+       "587:Skin Door",
+       "585:Veneer",
+       "588:Any Other"
+      ]
+     },
+     {
+      "i": 157,
+      "n": "Finish of door frame",
+      "ty": "multiselect",
+      "me": [
+       "Factory fitted (modular)",
+       "matching shutter"
+      ],
+      "pr": [
+       "Factory fitted (modular)",
+       "matching shutter"
+      ],
+      "af": [
+       "Factory fitted (modular)",
+       "matching shutter"
+      ],
+      "op": [
+       "589:Factory fitted (modular)",
+       "1386:matching shutter",
+       "590:NA",
+       "591:Any Other"
+      ]
+     },
+     {
+      "i": 158,
+      "n": " Architrave/mouldings",
+      "ty": "select",
+      "me": [
+       "Factory fitted (modular)",
+       "matching shutter"
+      ],
+      "pr": [
+       "Factory fitted (modular)",
+       "matching shutter"
+      ],
+      "af": [
+       "Factory fitted (modular)",
+       "matching shutter"
+      ],
+      "op": [
+       "592:Factory fitted (modular)",
+       "1412:matching shutter",
+       "593:NA",
+       "594:Any Other"
+      ]
+     },
+     {
+      "i": 159,
+      "n": "Other accessories",
+      "ty": "multiselect",
+      "me": [
+       "Handle with lock"
+      ],
+      "pr": [
+       "Handle with lock",
+       "Handle with thumb turn from inside, coin operated from outside"
+      ],
+      "af": [
+       "Handle with lock"
+      ],
+      "op": [
+       "595:Handle with lock",
+       "1378:Handle with thumb turn from inside, coin operated from outside\n",
+       "596:Manual door stopper",
+       "597:NA",
+       "598:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 38,
+    "t": "(Door, frame,lock) / Wardrobe \r\n(bedrooms)",
+    "c": null,
+    "f": [
+     {
+      "i": 160,
+      "n": "Type of Wardrobe",
+      "ty": "select",
+      "me": [
+       "NA"
+      ],
+      "pr": [
+       "Modular Wardrobe-prelaminated shutter and carcass in master bedroom"
+      ],
+      "af": [
+       "Modular Wardrobe-prelaminated shutter and carcass in all bedrooms"
+      ],
+      "op": [
+       "599:Modular Wardrobe-prelaminated shutter and carcass in all bedrooms",
+       "1360:Modular Wardrobe-prelaminated shutter and carcass in master bedroom",
+       "600:NA",
+       "601:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 39,
+    "t": "(Door, frame,lock) / Servant Room",
+    "c": null,
+    "f": [
+     {
+      "i": 161,
+      "n": "Door opening",
+      "ty": "select",
+      "me": [
+       "900 x 2450 mm"
+      ],
+      "pr": [
+       "900 x 2450 mm",
+       "900 X 2250 mm"
+      ],
+      "af": [
+       "900 x 2450 mm"
+      ],
+      "op": [
+       "602:1200 max X 2450 mm (for FTF of 3.2m)",
+       "604:750 min. X 2450 mm",
+       "603:900 min. X 2450 mm",
+       "1361:900 X 2250 mm",
+       "605:900 x 2450 mm",
+       "606:Any Other"
+      ]
+     },
+     {
+      "i": 162,
+      "n": "Type of rebate",
+      "ty": "select",
+      "me": [
+       "Single"
+      ],
+      "pr": [
+       "Single"
+      ],
+      "af": [
+       "Single"
+      ],
+      "op": [
+       "1422:Provision of extra rebate (outer side)",
+       "608:Single",
+       "607:Single leaf",
+       "609:Any Other"
+      ]
+     },
+     {
+      "i": 163,
+      "n": " Shutter type",
+      "ty": "select",
+      "me": [
+       "Flush"
+      ],
+      "pr": [
+       "Flush"
+      ],
+      "af": [
+       "Flush"
+      ],
+      "op": [
+       "610:Flush",
+       "611:NA",
+       "612:Any Other"
+      ]
+     },
+     {
+      "i": 164,
+      "n": " Thickness of door shutter",
+      "ty": "select",
+      "me": [
+       "32 mm"
+      ],
+      "pr": [
+       "32 mm"
+      ],
+      "af": [
+       "32 mm"
+      ],
+      "op": [
+       "613:32 mm",
+       "614:38 mm",
+       "615:40 mm",
+       "616:42 - 48 mm",
+       "617:Any Other"
+      ]
+     },
+     {
+      "i": 165,
+      "n": "Finish of Door shutter",
+      "ty": "select",
+      "me": [
+       "Laminated"
+      ],
+      "pr": [
+       "Frosted Glazed Aluminium",
+       "Laminated"
+      ],
+      "af": [
+       "Laminated"
+      ],
+      "op": [
+       "1379:Frosted Glazed Aluminium",
+       "619:Laminated",
+       "620:Skin Door",
+       "618:Veneer",
+       "621:Any Other"
+      ]
+     },
+     {
+      "i": 166,
+      "n": "Finish of door frame",
+      "ty": "select",
+      "me": [
+       "Factory fitted (modular)",
+       "matching shutter"
+      ],
+      "pr": [
+       "Factory fitted (modular)",
+       "matching shutter"
+      ],
+      "af": [
+       "Factory fitted (modular)",
+       "matching shutter"
+      ],
+      "op": [
+       "622:Factory fitted (modular)",
+       "1413:matching shutter",
+       "623:NA",
+       "624:Any Other"
+      ]
+     },
+     {
+      "i": 167,
+      "n": " Architrave/mouldings",
+      "ty": "select",
+      "me": [
+       "Factory fitted (modular)",
+       "matching shutter"
+      ],
+      "pr": [
+       "Factory fitted (modular)",
+       "matching shutter"
+      ],
+      "af": [
+       "Factory fitted (modular)",
+       "matching shutter"
+      ],
+      "op": [
+       "625:Factory fitted (modular)",
+       "1414:matching shutter",
+       "626:NA",
+       "627:Any Other"
+      ]
+     },
+     {
+      "i": 168,
+      "n": "Other accessories",
+      "ty": "multiselect",
+      "me": [
+       "Handle with lock",
+       "Manual door stopper"
+      ],
+      "pr": [
+       "Handle with lock",
+       "Manual door stopper"
+      ],
+      "af": [
+       "Handle with lock",
+       "Manual door stopper"
+      ],
+      "op": [
+       "1362:Digital Smart Lock/Biometric Lock",
+       "1363:Eye piece",
+       "628:Handle with lock",
+       "1364:Manual door stopper ",
+       "630:NA"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 40,
+    "t": "(Door, frame,lock) / Balcony - Kitchen",
+    "c": null,
+    "f": [
+     {
+      "i": 169,
+      "n": "Door opening",
+      "ty": "select",
+      "me": [
+       "1000 min. X 2450 mm"
+      ],
+      "pr": [
+       "1000 min. X 2450 mm",
+       "750 X 2250 mm"
+      ],
+      "af": [
+       "1000 min. X 2450 mm"
+      ],
+      "op": [
+       "635:1000 min. X 2450 mm",
+       "631:1200 max X 2450 mm (for FTF of 3.2m)",
+       "633:750 min. X 2450 mm",
+       "1365:750 X 2250 mm",
+       "632:900 min. X 2450 mm",
+       "634:900 x 2450 mm",
+       "636:Any Other"
+      ]
+     },
+     {
+      "i": 170,
+      "n": "Type of rebate",
+      "ty": "select",
+      "me": [
+       "Single"
+      ],
+      "pr": [
+       "Single"
+      ],
+      "af": [
+       "Single"
+      ],
+      "op": [
+       "1423:Provision of extra rebate (outer side)",
+       "638:Single",
+       "637:Single leaf",
+       "639:Any Other"
+      ]
+     },
+     {
+      "i": 171,
+      "n": " Thickness of door shutter",
+      "ty": "select",
+      "me": [
+       "5 mm min"
+      ],
+      "pr": [
+       "5 mm min"
+      ],
+      "af": [
+       "5 mm min"
+      ],
+      "op": [
+       "640:5 mm min",
+       "641:As per facade",
+       "642:Any Other"
+      ]
+     },
+     {
+      "i": 172,
+      "n": "Finish of Door shutter",
+      "ty": "select",
+      "me": [
+       "Glass"
+      ],
+      "pr": [
+       "Glass"
+      ],
+      "af": [
+       "Glass"
+      ],
+      "op": [
+       "644:As per facade",
+       "643:Glass",
+       "645:Any Other"
+      ]
+     },
+     {
+      "i": 173,
+      "n": "Finish of door frame",
+      "ty": "select",
+      "me": [
+       "Aluminium"
+      ],
+      "pr": [
+       "Aluminium"
+      ],
+      "af": [
+       "Aluminium"
+      ],
+      "op": [
+       "646:Aluminium",
+       "647:As per facade",
+       "648:Any Other"
+      ]
+     },
+     {
+      "i": 174,
+      "n": " Architrave/mouldings",
+      "ty": "select",
+      "me": [
+       "As per facade"
+      ],
+      "pr": [
+       "As per facade"
+      ],
+      "af": [
+       "As per facade"
+      ],
+      "op": [
+       "649:As per facade",
+       "650:Any Other"
+      ]
+     },
+     {
+      "i": 175,
+      "n": "Other accessories",
+      "ty": "select",
+      "me": [
+       "Handle with lock"
+      ],
+      "pr": [
+       "Handle with lock"
+      ],
+      "af": [
+       "Handle with lock"
+      ],
+      "op": [
+       "651:Handle with lock",
+       "652:NA",
+       "653:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 41,
+    "t": "(Door, frame,lock) / Bedroom & Toilet \r\nThreshold",
+    "c": null,
+    "f": [
+     {
+      "i": 176,
+      "n": "Type of tile/stone",
+      "ty": "select",
+      "me": [
+       "Full body tile"
+      ],
+      "pr": [
+       "Full body tile"
+      ],
+      "af": [
+       "Full body tile"
+      ],
+      "op": [
+       "654:Full body tile",
+       "655:NA",
+       "656:Any Other"
+      ]
+     },
+     {
+      "i": 177,
+      "n": " Tile Thickness",
+      "ty": "select",
+      "me": [
+       "15mm"
+      ],
+      "pr": [
+       "15mm"
+      ],
+      "af": [
+       "15mm"
+      ],
+      "op": [
+       "657:15mm",
+       "658:NA",
+       "659:Any Other"
+      ]
+     },
+     {
+      "i": 178,
+      "n": "Size of tile/stone",
+      "ty": "select",
+      "me": [
+       "As per requirement"
+      ],
+      "pr": [
+       "As per requirement"
+      ],
+      "af": [
+       "As per requirement"
+      ],
+      "op": [
+       "660:As per requirement",
+       "661:NA",
+       "662:Any Other"
+      ]
+     },
+     {
+      "i": 179,
+      "n": "Tile/stone finish",
+      "ty": "select",
+      "me": [
+       "Polished"
+      ],
+      "pr": [
+       "Polished"
+      ],
+      "af": [
+       "Polished"
+      ],
+      "op": [
+       "664:NA",
+       "663:Polished",
+       "665:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 42,
+    "t": "(Door, frame,lock) / Powder room",
+    "c": null,
+    "f": [
+     {
+      "i": 180,
+      "n": "Door opening",
+      "ty": "select",
+      "me": [
+       "800 mm (in exception cases 750 mm) Min. X 2450 mm (2250 mm in case of Services and AC drain)"
+      ],
+      "pr": [
+       "800 mm (in exception cases 750 mm) Min. X 2450 mm (2250 mm in case of Services and AC drain)"
+      ],
+      "af": [
+       "800 mm (in exception cases 750 mm) Min. X 2450 mm (2250 mm in case of Services and AC drain)"
+      ],
+      "op": [
+       "666:1200 max X 2450 mm (for FTF of 3.2m)",
+       "668:750 min. X 2450 mm",
+       "670:800 mm (in exception cases 750 mm) Min. X 2450 mm (2250 mm in case of Services and AC drain)",
+       "667:900 min. X 2450 mm",
+       "669:900 x 2450 mm",
+       "671:Any Other"
+      ]
+     },
+     {
+      "i": 181,
+      "n": "Type of rebate",
+      "ty": "select",
+      "me": [
+       "Single"
+      ],
+      "pr": [
+       "Single"
+      ],
+      "af": [
+       "Single"
+      ],
+      "op": [
+       "1424:Provision of extra rebate (outer side)",
+       "673:Single",
+       "672:Single leaf"
+      ]
+     },
+     {
+      "i": 182,
+      "n": " Shutter type",
+      "ty": "select",
+      "me": [
+       "Flush"
+      ],
+      "pr": [
+       "Flush"
+      ],
+      "af": [
+       "Flush"
+      ],
+      "op": [
+       "675:Flush",
+       "676:NA",
+       "674:Any Other"
+      ]
+     },
+     {
+      "i": 183,
+      "n": " Thickness of door shutter",
+      "ty": "select",
+      "me": [
+       "32 mm"
+      ],
+      "pr": [
+       "32 mm",
+       "38 mm"
+      ],
+      "af": [
+       "32 mm",
+       "38 mm"
+      ],
+      "op": [
+       "678:32 mm",
+       "679:38 mm",
+       "680:40 mm",
+       "681:42 - 48 mm",
+       "682:Any Other"
+      ]
+     },
+     {
+      "i": 184,
+      "n": "Finish of Door shutter",
+      "ty": "select",
+      "me": [
+       "Laminated"
+      ],
+      "pr": [
+       "Laminated",
+       "veneer"
+      ],
+      "af": [
+       "Skin Door",
+       "veneer"
+      ],
+      "op": [
+       "684:Laminated",
+       "685:Skin Door",
+       "683:Veneer",
+       "686:Any Other"
+      ]
+     },
+     {
+      "i": 185,
+      "n": "Finish of door frame",
+      "ty": "multiselect",
+      "me": [
+       "Factory fitted (modular)",
+       "matching shutter"
+      ],
+      "pr": [
+       "Factory fitted (modular)",
+       "matching shutter"
+      ],
+      "af": [
+       "Factory fitted (modular)",
+       "matching shutter"
+      ],
+      "op": [
+       "687:Factory fitted (modular)",
+       "1387:matching shutter",
+       "688:NA",
+       "689:Any Other"
+      ]
+     },
+     {
+      "i": 186,
+      "n": " Architrave/mouldings",
+      "ty": "select",
+      "me": [
+       "Factory fitted (modular)",
+       "matching shutter"
+      ],
+      "pr": [
+       "Factory fitted (modular)",
+       "matching shutter"
+      ],
+      "af": [
+       "Factory fitted (modular)",
+       "matching shutter"
+      ],
+      "op": [
+       "690:Factory fitted (modular)",
+       "1415:matching shutter",
+       "691:NA",
+       "692:Any Other"
+      ]
+     },
+     {
+      "i": 187,
+      "n": "Other accessories",
+      "ty": "select",
+      "me": [
+       "Handle with lock"
+      ],
+      "pr": [
+       "Handle with lock",
+       "Handle with thumb turn from inside, coin operated from outside"
+      ],
+      "af": [
+       "Handle with lock"
+      ],
+      "op": [
+       "693:Handle with lock",
+       "1366:Handle with thumb turn from inside, coin operated from outside",
+       "694:NA",
+       "695:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 43,
+    "t": "(Door, frame,lock) / Pooja/Study room",
+    "c": null,
+    "f": [
+     {
+      "i": 188,
+      "n": "Door opening",
+      "ty": "select",
+      "me": [
+       "900 min. X 2450 mm"
+      ],
+      "pr": [
+       "900 min. X 2450 mm"
+      ],
+      "af": [
+       "900 min. X 2450 mm"
+      ],
+      "op": [
+       "696:1200 max X 2450 mm (for FTF of 3.2m)",
+       "698:750 min. X 2450 mm",
+       "697:900 min. X 2450 mm",
+       "699:900 x 2450 mm",
+       "700:Any Other"
+      ]
+     },
+     {
+      "i": 189,
+      "n": "Type of rebate",
+      "ty": "select",
+      "me": [
+       "Single"
+      ],
+      "pr": [
+       "Single"
+      ],
+      "af": [
+       "Single"
+      ],
+      "op": [
+       "1425:Provision of extra rebate (outer side)",
+       "702:Single",
+       "701:Single leaf",
+       "703:Any Other"
+      ]
+     },
+     {
+      "i": 190,
+      "n": " Shutter type",
+      "ty": "select",
+      "me": [
+       "Flush"
+      ],
+      "pr": [
+       "Flush"
+      ],
+      "af": [
+       "Flush"
+      ],
+      "op": [
+       "704:Flush",
+       "705:NA",
+       "706:Any Other"
+      ]
+     },
+     {
+      "i": 191,
+      "n": " Thickness of door shutter",
+      "ty": "select",
+      "me": [
+       "32 mm"
+      ],
+      "pr": [
+       "32 mm",
+       "38 mm"
+      ],
+      "af": [
+       "38 mm",
+       "40 mm"
+      ],
+      "op": [
+       "707:32 mm",
+       "708:38 mm",
+       "709:40 mm",
+       "710:42 - 48 mm",
+       "711:Any Other"
+      ]
+     },
+     {
+      "i": 192,
+      "n": "Finish of Door shutter",
+      "ty": "select",
+      "me": [
+       "Laminated"
+      ],
+      "pr": [
+       "Laminated",
+       "veneer"
+      ],
+      "af": [
+       "Skin Door",
+       "veneer"
+      ],
+      "op": [
+       "713:Laminated",
+       "714:Skin Door",
+       "712:Veneer",
+       "715:Any Other"
+      ]
+     },
+     {
+      "i": 193,
+      "n": "Finish of door frame",
+      "ty": "multiselect",
+      "me": [
+       "Factory fitted (modular)",
+       "matching shutter"
+      ],
+      "pr": [
+       "Factory fitted (modular)",
+       "matching shutter"
+      ],
+      "af": [
+       "Factory fitted (modular)",
+       "matching shutter"
+      ],
+      "op": [
+       "716:Factory fitted (modular)",
+       "1388:matching shutter",
+       "717:NA",
+       "718:Any Other"
+      ]
+     },
+     {
+      "i": 194,
+      "n": " Architrave/mouldings",
+      "ty": "select",
+      "me": [
+       "Factory fitted (modular)",
+       "matching shutter"
+      ],
+      "pr": [
+       "Factory fitted (modular)",
+       "matching shutter"
+      ],
+      "af": [
+       "Factory fitted (modular)",
+       "matching shutter"
+      ],
+      "op": [
+       "719:Factory fitted (modular)",
+       "1416:matching shutter",
+       "720:NA",
+       "721:Any Other"
+      ]
+     },
+     {
+      "i": 195,
+      "n": "Other accessories",
+      "ty": "multiselect",
+      "me": [
+       "Handle with lock",
+       "Manual door stopper",
+       "Buffer"
+      ],
+      "pr": [
+       "Handle with lock",
+       "Manual door stopper",
+       "Buffer"
+      ],
+      "af": [
+       "Handle with lock",
+       "Manual door stopper",
+       "Buffer"
+      ],
+      "op": [
+       "1389:Buffer",
+       "722:Handle with lock",
+       "723:Manual door stopper",
+       "724:NA",
+       "725:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 44,
+    "t": "(Windows) / Balcony Doors Frame",
+    "c": null,
+    "f": [
+     {
+      "i": 196,
+      "n": " Type of frame",
+      "ty": "select",
+      "me": [
+       "UPVC",
+       "Aluminium"
+      ],
+      "pr": [
+       "UPVC",
+       "Aluminium"
+      ],
+      "af": [
+       "UPVC",
+       "Aluminium"
+      ],
+      "op": [
+       "1339:Aluminium",
+       "727:As per facade",
+       "726:UPVC",
+       "728:Any Other"
+      ]
+     },
+     {
+      "i": 197,
+      "n": "Height of window",
+      "ty": "select",
+      "me": [
+       "Balcony - 2450 mm min."
+      ],
+      "pr": [
+       "2450 mm min",
+       "up to beam bottom level"
+      ],
+      "af": [
+       "2450 mm min",
+       "up to beam bottom level"
+      ],
+      "op": [
+       "730:2450 mm min",
+       "731:As per facade",
+       "729:Balcony - 2450 mm min.",
+       "1340:up to beam bottom level",
+       "732:Any Other"
+      ]
+     },
+     {
+      "i": 198,
+      "n": " Type of glass",
+      "ty": "select",
+      "me": [
+       "Dependant on facade"
+      ],
+      "pr": [
+       "Dependant on facade"
+      ],
+      "af": [
+       "Dependant on facade"
+      ],
+      "op": [
+       "734:As per facade",
+       "733:Dependant on facade",
+       "735:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 45,
+    "t": "(Balcony & \r\nutilities) / Railings & Handrail",
+    "c": null,
+    "f": [
+     {
+      "i": 199,
+      "n": "Type of railing",
+      "ty": "select",
+      "me": [
+       "Seamless laminated glass with aluminium top and bottom"
+      ],
+      "pr": [
+       "Seamless laminated glass with aluminium top and bottom"
+      ],
+      "af": [
+       "Seamless laminated glass with aluminium top and bottom"
+      ],
+      "op": [
+       "737:As per facade",
+       "736:Seamless laminated glass with aluminium top and bottom",
+       "738:Any Other"
+      ]
+     },
+     {
+      "i": 200,
+      "n": " Glass width",
+      "ty": "select",
+      "me": [
+       "6 mm + 6 mm (laminate) - minimum"
+      ],
+      "pr": [
+       "6 mm + 6 mm (laminate) - minimum"
+      ],
+      "af": [
+       "6 mm + 6 mm (laminate) - minimum"
+      ],
+      "op": [
+       "739:6 mm + 6 mm (laminate) - minimum",
+       "740:NA",
+       "741:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 46,
+    "t": "(Balcony & utilities) / Utility",
+    "c": null,
+    "f": [
+     {
+      "i": 201,
+      "n": " Type of parapet",
+      "ty": "select",
+      "me": [
+       "MS Railing",
+       "Seamless glass"
+      ],
+      "pr": [
+       "MS Railing",
+       "Seamless glass"
+      ],
+      "af": [
+       "MS Railing",
+       "Seamless glass"
+      ],
+      "op": [
+       "742:MS Railing",
+       "743:NA",
+       "1341:Seamless glass",
+       "744:Any Other"
+      ]
+     },
+     {
+      "i": 202,
+      "n": "Washing machine area",
+      "ty": "select",
+      "me": [
+       "Plumbing & electrical provisions to be on the same side of utility area"
+      ],
+      "pr": [
+       "Plumbing & electrical provisions to be on the same side of utility area"
+      ],
+      "af": [
+       "Plumbing & electrical provisions to be on the same side of utility area"
+      ],
+      "op": [
+       "746:NA",
+       "745:Plumbing & electrical provisions to be on the same side of utility area",
+       "747:Any Other"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "mod": 2,
+  "id": 5,
+  "t": "Kitchen Goods",
+  "n": 5,
+  "last": false,
+  "secs": [
+   {
+    "id": 47,
+    "t": "Hob",
+    "c": null,
+    "f": [
+     {
+      "i": 203,
+      "n": "Type of hob",
+      "ty": "select",
+      "me": [
+       "NA",
+       "4 burner hob (Glass with Auto Ignition)"
+      ],
+      "pr": [
+       "4 burner hob (Glass with Auto Ignition)"
+      ],
+      "af": [
+       "4 burner hob (Glass with Auto Ignition)"
+      ],
+      "op": [
+       "749:4 burner hob (Glass with Auto Ignition)",
+       "750:NA",
+       "748:NA/4 burner hob (Glass with Auto Ignition)",
+       "751:Any Other"
+      ]
+     },
+     {
+      "i": 204,
+      "n": " Size of Hob",
+      "ty": "select",
+      "me": [
+       "NA",
+       "60 cm"
+      ],
+      "pr": [
+       "60 cm"
+      ],
+      "af": [
+       "90 cm"
+      ],
+      "op": [
+       "752:60 cm",
+       "753:90 cm",
+       "754:NA",
+       "755:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 48,
+    "t": "Chimney",
+    "c": null,
+    "f": [
+     {
+      "i": 205,
+      "n": "Type of chimney",
+      "ty": "select",
+      "me": [
+       "NA",
+       "wall mounted"
+      ],
+      "pr": [
+       "Wall mounted"
+      ],
+      "af": [
+       "Wall mounted"
+      ],
+      "op": [
+       "756:NA",
+       "757:Wall Mounted",
+       "758:Any Other"
+      ]
+     },
+     {
+      "i": 206,
+      "n": " Size of chimney",
+      "ty": "select",
+      "me": [
+       "NA",
+       "60 cm"
+      ],
+      "pr": [
+       "60 cm",
+       "90 cm"
+      ],
+      "af": [
+       "90 cm"
+      ],
+      "op": [
+       "759:60 cm",
+       "760:90 cm",
+       "761:NA",
+       "762:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 49,
+    "t": "Counter & back \r\nsplash",
+    "c": null,
+    "f": [
+     {
+      "i": 207,
+      "n": "Type of tile",
+      "ty": "select",
+      "me": [
+       "Full body heat resistant tile",
+       "Granite"
+      ],
+      "pr": [
+       "Full body heat resistant tile",
+       "Granite"
+      ],
+      "af": [
+       "International tile",
+       "Quartz stone"
+      ],
+      "op": [
+       "763:Full body heat resistant tile",
+       "764:Granite",
+       "1342:International tile",
+       "765:Quartz Stone",
+       "766:Any Other"
+      ]
+     },
+     {
+      "i": 208,
+      "n": " Tile finish",
+      "ty": "select",
+      "me": [
+       "Glazed",
+       "Glossy"
+      ],
+      "pr": [
+       "Glazed",
+       "Glossy"
+      ],
+      "af": [
+       "Glazed",
+       "Glossy"
+      ],
+      "op": [
+       "767:Glazed",
+       "768:Glossy",
+       "769:NA",
+       "770:Any Other"
+      ]
+     },
+     {
+      "i": 209,
+      "n": " Tile Size",
+      "ty": "select",
+      "me": [
+       "3.2 * 0.6 m (edge grinding)"
+      ],
+      "pr": [
+       "3.2 * 0.6 m (edge grinding)"
+      ],
+      "af": [
+       "3.2 * 0.6 m (edge grinding)"
+      ],
+      "op": [
+       "771:3.2 * 0.6 m (edge grinding)",
+       "772:NA",
+       "773:Any Other"
+      ]
+     },
+     {
+      "i": 210,
+      "n": "Thickness of counter",
+      "ty": "select",
+      "me": [
+       "10-12 mm"
+      ],
+      "pr": [
+       "10-12 mm",
+       "Granite - 16 to 18 mm"
+      ],
+      "af": [
+       "10-12 mm",
+       "Quartz- 18 to 20 mm",
+       "Granite - 16 to 18 mm"
+      ],
+      "op": [
+       "775:10-12 mm",
+       "774:15 mm",
+       "776:15-20 mm",
+       "778:Granite - 16 to 18 mm",
+       "777:Quartz- 18 to 20 mm",
+       "779:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 50,
+    "t": "Cabinets",
+    "c": null,
+    "f": [
+     {
+      "i": 211,
+      "n": " Type of cabinetary",
+      "ty": "select",
+      "me": [
+       "Modular cabinetry (HDHMR Board); handle less as much as possible"
+      ],
+      "pr": [
+       "Modular cabinetry (HDHMR Board) with soft close trays; handle less as much as possible"
+      ],
+      "af": [
+       "Modular cabinetry (HDHMR Board) with soft close trays; handle less as much as possible"
+      ],
+      "op": [
+       "781:Modular cabinetry (HDHMR Board) with soft close trays; handle less as much as possible",
+       "780:Modular cabinetry (HDHMR Board); handle less as much as possible",
+       "782:NA",
+       "783:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 51,
+    "t": "Sink/Drainboard",
+    "c": null,
+    "f": [
+     {
+      "i": 212,
+      "n": " Type of sink",
+      "ty": "select",
+      "me": [
+       "Single Bowl",
+       "Double bowl sink with drain board"
+      ],
+      "pr": [
+       "Double bowl sink with drain board"
+      ],
+      "af": [
+       "Double bowl sink with drain board"
+      ],
+      "op": [
+       "785:Double bowl sink with drain board",
+       "784:Single Bowl",
+       "786:Any Other"
+      ]
+     },
+     {
+      "i": 213,
+      "n": "Material of sink",
+      "ty": "select",
+      "me": [
+       "SS (Grade 304)"
+      ],
+      "pr": [
+       "SS (Grade 304)"
+      ],
+      "af": [
+       "SS (Grade 304)"
+      ],
+      "op": [
+       "788:NA",
+       "787:SS (Grade 304)",
+       "789:Any Other"
+      ]
+     },
+     {
+      "i": 214,
+      "n": " Faucet type",
+      "ty": "multiselect",
+      "me": [
+       "Counter mounted",
+       "Sink mixer & valves"
+      ],
+      "pr": [
+       "Counter mounted",
+       "Sink mixer & valves"
+      ],
+      "af": [
+       "Counter mounted",
+       "Sink mixer & valves"
+      ],
+      "op": [
+       "790:Counter mounted",
+       "791:NA",
+       "792:Sink mixer & valves",
+       "1427:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 52,
+    "t": "Microwave",
+    "c": null,
+    "f": [
+     {
+      "i": 215,
+      "n": "Provision of microwave",
+      "ty": "select",
+      "me": [
+       "Provision provided in modular kitchen",
+       "Built in microwave"
+      ],
+      "pr": [
+       "Provision provided in modular kitchen",
+       "Built in microwave",
+       "Provision provided for counter top microwave"
+      ],
+      "af": [
+       "Provision provided in modular kitchen",
+       "Built in microwave"
+      ],
+      "op": [
+       "794:Built in microwave",
+       "1367:Provision provided for counter top microwave\n",
+       "793:Provision provided in modular kitchen",
+       "795:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 53,
+    "t": "Oven",
+    "c": null,
+    "f": [
+     {
+      "i": 216,
+      "n": "Provision of oven",
+      "ty": "select",
+      "me": [
+       "Provision provided in modular kitchen",
+       "Built in oven"
+      ],
+      "pr": [
+       "Provision provided in modular kitchen",
+       "Built in oven",
+       "Provision provided for counter top microwave"
+      ],
+      "af": [
+       "Provision provided in modular kitchen",
+       "Built in oven"
+      ],
+      "op": [
+       "797:Built in oven",
+       "1368:Provision provided for counter top microwave\n ",
+       "796:Provision provided in modular kitchen",
+       "798:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 54,
+    "t": "Dishwasher",
+    "c": null,
+    "f": [
+     {
+      "i": 217,
+      "n": "Provision of dishwasher",
+      "ty": "select",
+      "me": [
+       "NA",
+       "Provision provided in modular kitchen"
+      ],
+      "pr": [
+       "Provision provided in modular kitchen"
+      ],
+      "af": [
+       "Provision provided in modular kitchen",
+       "Dishwasher provided"
+      ],
+      "op": [
+       "800:Built in",
+       "1345:Dishwasher provided",
+       "1344:NA",
+       "799:Provision provided in modular kitchen",
+       "801:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 55,
+    "t": "Geyser",
+    "c": null,
+    "f": [
+     {
+      "i": 218,
+      "n": " Instant Geyser",
+      "ty": "select",
+      "me": [
+       "3L"
+      ],
+      "pr": [
+       "3L"
+      ],
+      "af": [
+       "3L"
+      ],
+      "op": [
+       "804:10L",
+       "802:3L",
+       "803:6L",
+       "805:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 56,
+    "t": "Water purifier",
+    "c": null,
+    "f": [
+     {
+      "i": 219,
+      "n": " Provision of RO",
+      "ty": "select",
+      "me": [
+       "Provision provided in modular kitchen",
+       "Counter RO provided"
+      ],
+      "pr": [
+       "Provision provided in modular kitchen",
+       "Counter RO provided"
+      ],
+      "af": [
+       "Provision provided in modular kitchen",
+       "Counter RO provided"
+      ],
+      "op": [
+       "807:Built in RO",
+       "808:Counter RO provided",
+       "806:Provision provided in modular kitchen",
+       "809:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 57,
+    "t": "Exhaust fan",
+    "c": null,
+    "f": [
+     {
+      "i": 220,
+      "n": "Exhaust fan size",
+      "ty": "select",
+      "me": [
+       "8 X 8",
+       "200 x 200 mm"
+      ],
+      "pr": [
+       "8 X 8",
+       "200 x 200 mm"
+      ],
+      "af": [
+       "8 X 8",
+       "200 x 200 mm"
+      ],
+      "op": [
+       "1346:200 x 200 mm",
+       "810:8 X 8",
+       "811:NA",
+       "812:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 58,
+    "t": "Washing \r\nmachine",
+    "c": null,
+    "f": [
+     {
+      "i": 221,
+      "n": "Provision of washing machine",
+      "ty": "select",
+      "me": [
+       "Provision provided",
+       "washing machine provided"
+      ],
+      "pr": [
+       "Provision provided",
+       "washing machine provided"
+      ],
+      "af": [
+       "Provision provided",
+       "washing machine provided with drying combination"
+      ],
+      "op": [
+       "813:Provision provided",
+       "814:Washing machine provided",
+       "815:washing machine provided with drying combination",
+       "816:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 59,
+    "t": "Refrigerator",
+    "c": null,
+    "f": [
+     {
+      "i": 222,
+      "n": "Provision of refrigerator",
+      "ty": "select",
+      "me": [
+       "Provision provided",
+       "Refrigerator provided"
+      ],
+      "pr": [
+       "Provision provided (larger space)",
+       "Refrigerator provided"
+      ],
+      "af": [
+       "Provision provided (larger space)",
+       "Refrigerator provided"
+      ],
+      "op": [
+       "817:Provision provided",
+       "1347:Provision provided (larger space)",
+       "818:Refrigerator provided",
+       "819:Any Other"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "mod": 2,
+  "id": 6,
+  "t": "Electricals",
+  "n": 6,
+  "last": false,
+  "secs": [
+   {
+    "id": 60,
+    "t": "Living and Dining",
+    "c": null,
+    "f": [
+     {
+      "i": 223,
+      "n": "Type of switch",
+      "ty": "select",
+      "me": [
+       "Modular Switch / socket"
+      ],
+      "pr": [
+       "Modular Switch / socket"
+      ],
+      "af": [
+       "Modular Switch / socket"
+      ],
+      "op": [
+       "820:Modular Switch / socket",
+       "822:NA",
+       "823:Any Other"
+      ]
+     },
+     {
+      "i": 224,
+      "n": "Switches",
+      "ty": "multiselect",
+      "me": [
+       "Power socket, AC switch (if split), TV switch, Light switch",
+       "Intercom point, optical fiber line, data point",
+       "Fan regulator",
+       "Two way switches"
+      ],
+      "pr": [
+       "Power socket, AC switch (if split), TV switch, Light switch",
+       "Intercom point, optical fiber line, data point",
+       "Fan regulator",
+       "Two way switches"
+      ],
+      "af": [
+       "Power socket, AC switch (if split), TV switch, Light switch",
+       "Intercom point, optical fiber line, data point",
+       "Fan regulator",
+       "Two way switches"
+      ],
+      "op": [
+       "826:Fan regulator",
+       "825:Intercom point, optical fiber line, data point",
+       "828:NA",
+       "824:Power socket, AC switch (if split), TV switch, Light switch",
+       "827:Two way switches",
+       "1428:Any Other"
+      ]
+     },
+     {
+      "i": 225,
+      "n": "Other provisions",
+      "ty": "multiselect",
+      "me": [
+       "NA"
+      ],
+      "pr": [
+       "Automated mood lighting",
+       "Airpurifier system"
+      ],
+      "af": [
+       "Automated mood lighting",
+       "Airpurifier system"
+      ],
+      "op": [
+       "829:Airpurifier system",
+       "830:Automated mood lighting",
+       "831:NA",
+       "1429:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 61,
+    "t": "Master Bedroom",
+    "c": null,
+    "f": [
+     {
+      "i": 226,
+      "n": "Type of switch",
+      "ty": "select",
+      "me": [
+       "Modular Switch / socket"
+      ],
+      "pr": [
+       "Modular Switch / socket"
+      ],
+      "af": [
+       "Modular Switch / socket"
+      ],
+      "op": [
+       "832:Modular Switch / socket",
+       "834:NA",
+       "835:Any Other"
+      ]
+     },
+     {
+      "i": 227,
+      "n": "Switches",
+      "ty": "multiselect",
+      "me": [
+       "Power socket, AC switch (if split), TV switch, Light switch",
+       "Fan regulator"
+      ],
+      "pr": [
+       "Power socket, AC switch (if split), TV switch, Light switch",
+       "Fan regulator"
+      ],
+      "af": [
+       "Power socket, AC switch (if split), TV switch, Light switch",
+       "Fan regulator"
+      ],
+      "op": [
+       "837:Fan regulator",
+       "838:NA",
+       "836:Power socket, AC switch (if split), TV switch, Light switch",
+       "839:Any Other"
+      ]
+     },
+     {
+      "i": 228,
+      "n": " Other provisions",
+      "ty": "select",
+      "me": [
+       "NA"
+      ],
+      "pr": [
+       "Airpurifier system"
+      ],
+      "af": [
+       "Automated mood lighting Airpurifier system"
+      ],
+      "op": [
+       "841:Airpurifier system",
+       "842:Automated mood lighting Airpurifier system",
+       "840:NA",
+       "843:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 62,
+    "t": "Master toilet",
+    "c": null,
+    "f": [
+     {
+      "i": 229,
+      "n": "Type of switch",
+      "ty": "select",
+      "me": [
+       "Modular Switch / socket"
+      ],
+      "pr": [
+       "Modular Switch / socket"
+      ],
+      "af": [
+       "Modular Switch / socket"
+      ],
+      "op": [
+       "844:Modular Switch / socket",
+       "846:NA",
+       "847:Any Other"
+      ]
+     },
+     {
+      "i": 230,
+      "n": " Switches",
+      "ty": "multiselect",
+      "me": [
+       "Two Way switches",
+       "Power socket",
+       "Light switch",
+       "Geyser switch",
+       "Fan Regulator"
+      ],
+      "pr": [
+       "Two Way switches",
+       "Power socket",
+       "Light switch",
+       "Geyser switch",
+       "Fan Regulator"
+      ],
+      "af": [
+       "Two Way switches",
+       "Power socket",
+       "Light switch",
+       "Geyser switch",
+       "Fan Regulator"
+      ],
+      "op": [
+       "850:Fan Regulator",
+       "849:Geyser switch",
+       "1431:Light switch",
+       "1432:NA",
+       "1430:Power socket",
+       "848:Two Way switches",
+       "1433:Any Other"
+      ]
+     },
+     {
+      "i": 231,
+      "n": "Motion sensor",
+      "ty": "select",
+      "me": [
+       "NA"
+      ],
+      "pr": [
+       "Installed (controller by PIR) with single bypass switch"
+      ],
+      "af": [
+       "Installed (controller by PIR) with single bypass switch"
+      ],
+      "op": [
+       "1348:Installed (controller by PIR) with single bypass switch",
+       "852:NA",
+       "851:Power socket, AC switch (if split), TV switch, Light switch Fan regulator",
+       "1349:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 63,
+    "t": "Other Bedroom",
+    "c": null,
+    "f": [
+     {
+      "i": 232,
+      "n": " Type of switch",
+      "ty": "select",
+      "me": [
+       "Modular Switch / socket"
+      ],
+      "pr": [
+       "Modular Switch / socket"
+      ],
+      "af": [
+       "Modular Switch / socket"
+      ],
+      "op": [
+       "853:Modular Switch / socket",
+       "855:NA",
+       "856:Any Other"
+      ]
+     },
+     {
+      "i": 233,
+      "n": "Switches",
+      "ty": "multiselect",
+      "me": [
+       "Power socket, AC switch (if split), TV switch, Light switch",
+       "Fan regulator"
+      ],
+      "pr": [
+       "Power socket, AC switch (if split), TV switch, Light switch",
+       "Fan regulator"
+      ],
+      "af": [
+       "Power socket, AC switch (if split), TV switch, Light switch",
+       "Fan regulator"
+      ],
+      "op": [
+       "1369:Fan regulator",
+       "857:Installed (controller by PIR) with single bypass switch",
+       "859:NA",
+       "858:Power socket, AC switch (if split), TV switch, Light switch",
+       "860:Any Other"
+      ]
+     },
+     {
+      "i": 234,
+      "n": "Other provisions",
+      "ty": "select",
+      "me": [
+       "NA"
+      ],
+      "pr": [
+       "Airpurifier system"
+      ],
+      "af": [
+       "Automated mood lighting",
+       "Airpurifier system"
+      ],
+      "op": [
+       "861:Airpurifier system",
+       "862:Automated mood lighting",
+       "864:NA",
+       "865:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 64,
+    "t": "Other Toilets",
+    "c": null,
+    "f": [
+     {
+      "i": 235,
+      "n": "Type of switch",
+      "ty": "select",
+      "me": [
+       "Modular Switch / socket"
+      ],
+      "pr": [
+       "Modular Switch / socket"
+      ],
+      "af": [
+       "Modular Switch / socket"
+      ],
+      "op": [
+       "866:Modular Switch / socket",
+       "868:NA",
+       "869:Any Other"
+      ]
+     },
+     {
+      "i": 236,
+      "n": "Switches",
+      "ty": "multiselect",
+      "me": [
+       "Two Way switches",
+       "Power socket",
+       "Light switch",
+       "Geyser switch",
+       "Fan Regulator"
+      ],
+      "pr": [
+       "Two Way switches",
+       "Power socket",
+       "Light switch",
+       "Geyser switch",
+       "Fan Regulator"
+      ],
+      "af": [
+       "Two Way switches",
+       "Power socket",
+       "Light switch",
+       "Geyser switch",
+       "Fan Regulator"
+      ],
+      "op": [
+       "872:Fan Regulator",
+       "871:Geyser switch",
+       "1435:Light switch",
+       "1436:NA",
+       "1434:Power socket",
+       "870:Two Way switches",
+       "1437:Any Other"
+      ]
+     },
+     {
+      "i": 237,
+      "n": " Motion sensor",
+      "ty": "select",
+      "me": [
+       "NA"
+      ],
+      "pr": [
+       "Installed (controller by PIR) with single bypass switch"
+      ],
+      "af": [
+       "Installed (controller by PIR) with single bypass switch"
+      ],
+      "op": [
+       "874:Installed (controller by PIR) with single bypass switch",
+       "873:NA",
+       "875:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 65,
+    "t": "Kitchen",
+    "c": null,
+    "f": [
+     {
+      "i": 238,
+      "n": " Type of switch",
+      "ty": "select",
+      "me": [
+       "Modular Switch / socket"
+      ],
+      "pr": [
+       "Modular Switch / socket"
+      ],
+      "af": [
+       "Modular Switch / socket"
+      ],
+      "op": [
+       "876:Modular Switch / socket",
+       "878:NA",
+       "879:Any Other"
+      ]
+     },
+     {
+      "i": 239,
+      "n": " Switches",
+      "ty": "multiselect",
+      "me": [
+       "Power socket",
+       "Light switch",
+       "Fan regulator",
+       "Refrigerator switch"
+      ],
+      "pr": [
+       "Power socket",
+       "Light switch",
+       "Fan regulator",
+       "Refrigerator switch"
+      ],
+      "af": [
+       "Power socket",
+       "Light switch",
+       "Fan regulator",
+       "Refrigerator switch"
+      ],
+      "op": [
+       "882:Fan regulator",
+       "1438:Light switch",
+       "1439:NA",
+       "880:Power socket",
+       "881:Refrigerator switch",
+       "1440:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 66,
+    "t": "Servant room",
+    "c": null,
+    "f": [
+     {
+      "i": 240,
+      "n": "Type of switch",
+      "ty": "select",
+      "me": [
+       "Modular Switch / socket"
+      ],
+      "pr": [
+       "Modular Switch / socket"
+      ],
+      "af": [
+       "Modular Switch / socket"
+      ],
+      "op": [
+       "883:Modular Switch / socket",
+       "885:NA",
+       "886:Any Other"
+      ]
+     },
+     {
+      "i": 241,
+      "n": "Switches",
+      "ty": "multiselect",
+      "me": [
+       "Power socket",
+       "TV switch",
+       "Light switch",
+       "Fan regulator"
+      ],
+      "pr": [
+       "Power socket",
+       "TV switch",
+       "Light switch",
+       "Fan regulator"
+      ],
+      "af": [
+       "Power socket",
+       "TV switch",
+       "Light switch",
+       "Fan regulator"
+      ],
+      "op": [
+       "888:Fan regulator",
+       "889:Light switch",
+       "1442:NA",
+       "887:Power socket",
+       "1441:TV switch",
+       "1443:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 67,
+    "t": "Balcony / \r\n Utility space",
+    "c": null,
+    "f": [
+     {
+      "i": 242,
+      "n": "Type of switch",
+      "ty": "select",
+      "me": [
+       "Modular Switch / socket"
+      ],
+      "pr": [
+       "Modular Switch / socket"
+      ],
+      "af": [
+       "Modular Switch / socket"
+      ],
+      "op": [
+       "890:Modular Switch / socket",
+       "892:NA",
+       "893:Any Other"
+      ]
+     },
+     {
+      "i": 243,
+      "n": "Switches",
+      "ty": "multiselect",
+      "me": [
+       "Power socket",
+       "Light switch",
+       "Fan Regulator"
+      ],
+      "pr": [
+       "Power socket",
+       "Light switch",
+       "Fan Regulator"
+      ],
+      "af": [
+       "Power socket",
+       "Light switch",
+       "Fan Regulator"
+      ],
+      "op": [
+       "896:Fan Regulator",
+       "895:Light switch",
+       "1370:NA",
+       "894:Power socket",
+       "1444:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 68,
+    "t": "Powder room",
+    "c": null,
+    "f": [
+     {
+      "i": 244,
+      "n": " Type of switch",
+      "ty": "select",
+      "me": [
+       "Modular Switch / socket"
+      ],
+      "pr": [
+       "Modular Switch / socket"
+      ],
+      "af": [
+       "Modular Switch / socket"
+      ],
+      "op": [
+       "897:Modular Switch / socket",
+       "899:NA",
+       "900:Any Other"
+      ]
+     },
+     {
+      "i": 245,
+      "n": " Switches",
+      "ty": "multiselect",
+      "me": [
+       "Two Way switches",
+       "Power socket",
+       "Light switch",
+       "Geyser switch",
+       "Fan Regulator"
+      ],
+      "pr": [
+       "Two Way switches",
+       "Power socket",
+       "Light switch",
+       "Geyser switch",
+       "Fan Regulator"
+      ],
+      "af": [
+       "Two Way switches",
+       "Power socket",
+       "Light switch",
+       "Geyser switch",
+       "Fan Regulator"
+      ],
+      "op": [
+       "902:Fan Regulator",
+       "903:Geyser switch",
+       "1446:Light switch",
+       "1447:NA",
+       "1445:Power socket",
+       "901:Two Way switches",
+       "1448:Any Other"
+      ]
+     },
+     {
+      "i": 246,
+      "n": "Motion sensor",
+      "ty": "select",
+      "me": [
+       "NA"
+      ],
+      "pr": [
+       "Installed (controller by PIR) with single bypass switch"
+      ],
+      "af": [
+       "Installed (controller by PIR) with single bypass switch"
+      ],
+      "op": [
+       "904:Installed (controller by PIR) with single bypass switch",
+       "905:NA",
+       "906:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 69,
+    "t": "Pooja/Study room",
+    "c": null,
+    "f": [
+     {
+      "i": 247,
+      "n": "Type of switch",
+      "ty": "select",
+      "me": [
+       "Modular Switch / socket"
+      ],
+      "pr": [
+       "Modular Switch / socket"
+      ],
+      "af": [
+       "Modular Switch / socket"
+      ],
+      "op": [
+       "907:Modular Switch / socket",
+       "909:NA",
+       "910:Any Other"
+      ]
+     },
+     {
+      "i": 248,
+      "n": " Switches",
+      "ty": "multiselect",
+      "me": [
+       "Power socket",
+       "AC switch (if split)",
+       "TV switch",
+       "Light switch",
+       "Fan regulator"
+      ],
+      "pr": [
+       "Power socket",
+       "AC switch (if split)",
+       "TV switch",
+       "Light switch",
+       "Fan regulator"
+      ],
+      "af": [
+       "Power socket",
+       "AC switch (if split)",
+       "TV switch",
+       "Light switch",
+       "Fan regulator"
+      ],
+      "op": [
+       "1449:AC switch (if split)",
+       "912:Fan regulator",
+       "913:Light switch",
+       "1451:NA",
+       "911:Power socket",
+       "1450:TV switch",
+       "1452:Any Other"
+      ]
+     },
+     {
+      "i": 249,
+      "n": "Other provisions",
+      "ty": "select",
+      "me": [
+       "NA"
+      ],
+      "pr": [
+       "Airpurifier system"
+      ],
+      "af": [
+       "Airpurifier system",
+       "Automated mood lighting"
+      ],
+      "op": [
+       "915:Airpurifier system",
+       "916:Automated mood lighting",
+       "914:NA",
+       "918:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 70,
+    "t": "Air conditioning(living & dining, bedrooms, kitchen)",
+    "c": null,
+    "f": [
+     {
+      "i": 250,
+      "n": "Provision for HVAC",
+      "ty": "multiselect",
+      "me": [
+       "VRF Hi wall - All bedrooms"
+      ],
+      "pr": [
+       "VRV",
+       "VRF 1 way cassette - All bedrooms, Living room",
+       "VRF Hi wall-Kitchen, servant room"
+      ],
+      "af": [
+       "VRV",
+       "VRF 1 way cassette - All bedrooms, Living room",
+       "VRF Hi wall-Kitchen, servant room"
+      ],
+      "op": [
+       "921:VRF 1 way cassette - All bedrooms, Living room",
+       "919:VRF Hi wall - All bedrooms",
+       "922:VRF Hi wall-Kitchen, servant room",
+       "920:VRV",
+       "923:VRV/VRF",
+       "924:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 71,
+    "t": "Fire safety",
+    "c": null,
+    "f": [
+     {
+      "i": 251,
+      "n": "System availability",
+      "ty": "select",
+      "me": [
+       "As per fire NOC",
+       "NBC"
+      ],
+      "pr": [
+       "As per fire NOC",
+       "NBC"
+      ],
+      "af": [
+       "As per fire NOC",
+       "NBC"
+      ],
+      "op": [
+       "925:As per fire NOC",
+       "926:NBC",
+       "927:Any Other"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "mod": 2,
+  "id": 7,
+  "t": "Bathroom Accessories",
+  "n": 7,
+  "last": true,
+  "secs": [
+   {
+    "id": 72,
+    "t": "Master \r\nBathroom",
+    "c": null,
+    "f": [
+     {
+      "i": 252,
+      "n": "Counter, ledge wall top, niche border",
+      "ty": "select",
+      "me": [
+       "Full body tile; size as per bathroom dimensions"
+      ],
+      "pr": [
+       "Full body tile; size as per bathroom dimensions"
+      ],
+      "af": [
+       "International tile",
+       "Quartz stone",
+       "imported Marble; size as per bathroom dimensions"
+      ],
+      "op": [
+       "928:Full body tile; size as per bathroom dimensions",
+       "931:imported Marble; size as per bathroom dimensions",
+       "929:International tile",
+       "932:NA",
+       "930:Quartz stone",
+       "933:Any Other"
+      ]
+     },
+     {
+      "i": 253,
+      "n": " Fixtures",
+      "ty": "multiselect",
+      "me": [
+       "Wall hung WC with concealed cistern",
+       "health faucet",
+       "Basin, Basin Mixer",
+       "Shower & spout",
+       "Bathtub",
+       "Handshower"
+      ],
+      "pr": [
+       "Wall hung WC with concealed cistern",
+       "health faucet",
+       "Basin, Basin Mixer",
+       "Shower & spout",
+       "Bathtub",
+       "Handshower"
+      ],
+      "af": [
+       "Wall hung WC with concealed cistern",
+       "health faucet",
+       "Basin, Basin Mixer",
+       "Shower & spout",
+       "Bathtub",
+       "Handshower"
+      ],
+      "op": [
+       "1371:Basin, Basin Mixer",
+       "1373:Bathtub",
+       "936:Handshower",
+       "935:health faucet",
+       "1374:NA",
+       "1372:Shower & spout",
+       "934:Wall hung WC with concealed cistern",
+       "1453:Any Other"
+      ]
+     },
+     {
+      "i": 254,
+      "n": "Bathroom Accessories",
+      "ty": "multiselect",
+      "me": [
+       "Toilet paper holder",
+       "Towel ring",
+       "Towel rod"
+      ],
+      "pr": [
+       "Toilet paper holder",
+       "Towel ring",
+       "Towel rack",
+       "Robe hook"
+      ],
+      "af": [
+       "Toilet paper holder",
+       "Towel ring",
+       "Towel rack",
+       "Robe hook",
+       "Medicine Cabinet with Mirror",
+       "Vanity Cabinet (Both with LED light)"
+      ],
+      "op": [
+       "939:Medicine Cabinet with Mirror",
+       "940:NA",
+       "1382:Robe hook",
+       "937:Toilet paper holder",
+       "938:Towel rack",
+       "1380:Towel ring",
+       "1381:Towel rod",
+       "1454:Vanity Cabinet (Both with LED light)",
+       "941:Any Other"
+      ]
+     },
+     {
+      "i": 255,
+      "n": "Electrical - Exhaust fan",
+      "ty": "select",
+      "me": [
+       "8 X 8",
+       "200 x 200 mm"
+      ],
+      "pr": [
+       "In line exhaust"
+      ],
+      "af": [
+       "In line exhaust"
+      ],
+      "op": [
+       "943:200 x 200 mm",
+       "942:8 X 8",
+       "944:In line exhaust",
+       "945:NA",
+       "946:Any Other"
+      ]
+     },
+     {
+      "i": 256,
+      "n": "Electrical - Geyser",
+      "ty": "select",
+      "me": [
+       "25L"
+      ],
+      "pr": [
+       "25L"
+      ],
+      "af": [
+       "25L"
+      ],
+      "op": [
+       "947:15L",
+       "948:25L",
+       "949:central water heater",
+       "950:NA",
+       "951:Any Other"
+      ]
+     },
+     {
+      "i": 257,
+      "n": "Shower glass partitions",
+      "ty": "select",
+      "me": [
+       "Not provided",
+       "Glass partition (with door); toughened glass 8mm thick"
+      ],
+      "pr": [
+       "Glass partition (with door); toughened glass 8mm thick"
+      ],
+      "af": [
+       "Glass partition (with door); toughened glass 8mm thick"
+      ],
+      "op": [
+       "953:Glass partition (with door); toughened glass 8mm thick",
+       "954:NA",
+       "952:Not provided",
+       "955:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 73,
+    "t": "Other Bathroom",
+    "c": null,
+    "f": [
+     {
+      "i": 258,
+      "n": "Counter, ledge wall top, niche border",
+      "ty": "select",
+      "me": [
+       "Full body tile; size as per bathroom dimensions"
+      ],
+      "pr": [
+       "Full body tile; size as per bathroom dimensions"
+      ],
+      "af": [
+       "International tile",
+       "Quartz stone",
+       "imported Marble; size as per bathroom dimensions"
+      ],
+      "op": [
+       "956:Full body tile; size as per bathroom dimensions",
+       "959:imported Marble; size as per bathroom dimensions",
+       "957:International tile",
+       "960:NA",
+       "958:Quartz stone",
+       "961:Any Other"
+      ]
+     },
+     {
+      "i": 259,
+      "n": "Fixtures",
+      "ty": "multiselect",
+      "me": [
+       "Wall hung WC with concealed cistern",
+       "health faucet",
+       "Basin",
+       "Basin Mixer",
+       "Shower & spout",
+       "Bathtub",
+       "Handshower"
+      ],
+      "pr": [
+       "Wall hung WC with concealed cistern",
+       "health faucet",
+       "Basin",
+       "Basin Mixer",
+       "Shower & spout",
+       "Bathtub",
+       "Handshower"
+      ],
+      "af": [
+       "Wall hung WC with concealed cistern",
+       "health faucet",
+       "Basin",
+       "Basin Mixer",
+       "Shower & spout",
+       "Bathtub",
+       "Handshower"
+      ],
+      "op": [
+       "1375:Basin",
+       "1396:Basin Mixer",
+       "1377:Bathtub",
+       "1397:Handshower",
+       "964:health faucet",
+       "965:NA",
+       "1376:Shower & spout",
+       "962:Wall hung WC with concealed cistern",
+       "966:Any Other"
+      ]
+     },
+     {
+      "i": 260,
+      "n": " Accessories",
+      "ty": "multiselect",
+      "me": [
+       "Toilet paper holder",
+       "Towel ring",
+       "Towel rod"
+      ],
+      "pr": [
+       "Toilet paper holder",
+       "Towel ring",
+       "Towel rack",
+       "Robe hook"
+      ],
+      "af": [
+       "Toilet paper holder",
+       "Towel ring",
+       "Towel rack",
+       "Robe hook",
+       "Medicine Cabinet with Mirror",
+       "Vanity Cabinet (Both with LED light)"
+      ],
+      "op": [
+       "969:Medicine Cabinet with Mirror",
+       "970:NA",
+       "1456:Robe hook",
+       "967:Toilet paper holder",
+       "1455:Towel rack",
+       "968:Towel ring",
+       "1457:Vanity Cabinet (Both with LED light)",
+       "971:Any Other"
+      ]
+     },
+     {
+      "i": 261,
+      "n": "Electrical - Exhaust fan",
+      "ty": "select",
+      "me": [
+       "8 X 8",
+       "200 x 200 mm"
+      ],
+      "pr": [
+       "In line exhaust"
+      ],
+      "af": [
+       "In line exhaust"
+      ],
+      "op": [
+       "973:200 x 200 mm",
+       "972:8 X 8",
+       "974:In line exhaust",
+       "975:NA",
+       "976:Any Other"
+      ]
+     },
+     {
+      "i": 262,
+      "n": " Electrical - Geyser",
+      "ty": "select",
+      "me": [
+       "25L"
+      ],
+      "pr": [
+       "25L"
+      ],
+      "af": [
+       "25L"
+      ],
+      "op": [
+       "977:15L",
+       "978:25L",
+       "979:Central Water Heater",
+       "980:NA",
+       "981:Any Other"
+      ]
+     },
+     {
+      "i": 263,
+      "n": "Shower glass partitions",
+      "ty": "select",
+      "me": [
+       "Not provided",
+       "Glass partition with door; toughened glass 8mm thick"
+      ],
+      "pr": [
+       "Not provided",
+       "Glass partition with door; toughened glass 8mm thick"
+      ],
+      "af": [
+       "Glass partition with door; toughened glass 8mm thick"
+      ],
+      "op": [
+       "983:Glass partition with door; toughened glass 8mm thick",
+       "984:NA",
+       "982:Not provided",
+       "985:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 74,
+    "t": "Powder room",
+    "c": null,
+    "f": [
+     {
+      "i": 264,
+      "n": "Counter, ledge wall top, niche border",
+      "ty": "select",
+      "me": [
+       "Full body tile; size as per bathroom dimensions"
+      ],
+      "pr": [
+       "Full body tile; size as per bathroom dimensions"
+      ],
+      "af": [
+       "International tile",
+       "Quartz stone",
+       "imported Marble; size as per bathroom dimensions"
+      ],
+      "op": [
+       "986:Full body tile; size as per bathroom dimensions",
+       "989:imported Marble; size as per bathroom dimensions",
+       "987:International tile",
+       "990:NA",
+       "988:Quartz stone",
+       "991:Any Other"
+      ]
+     },
+     {
+      "i": 265,
+      "n": " Fixtures",
+      "ty": "multiselect",
+      "me": [
+       "Wall hung WC with concealed cistern",
+       "health faucet",
+       "Basin",
+       "Basin Mixer",
+       "Shower & spout",
+       "Bathtub",
+       "Handshower"
+      ],
+      "pr": [
+       "Wall hung WC with concealed cistern",
+       "health faucet",
+       "Basin",
+       "Basin Mixer",
+       "Shower & spout",
+       "Bathtub",
+       "Handshower"
+      ],
+      "af": [
+       "Wall hung WC with concealed cistern",
+       "health faucet",
+       "Basin",
+       "Basin Mixer",
+       "Shower & spout",
+       "Bathtub",
+       "Handshower"
+      ],
+      "op": [
+       "1391:Basin",
+       "1392:Basin Mixer",
+       "1394:Bathtub",
+       "1395:Handshower",
+       "1390:health faucet",
+       "993:NA",
+       "1393:Shower & spout",
+       "992:Wall hung WC with concealed cistern",
+       "994:Any Other"
+      ]
+     },
+     {
+      "i": 266,
+      "n": "Accessories",
+      "ty": "multiselect",
+      "me": [
+       "Toilet paper holder",
+       "Towel ring",
+       "Towel rod"
+      ],
+      "pr": [
+       "Toilet paper holder",
+       "Towel ring",
+       "Towel rack",
+       "Robe hook"
+      ],
+      "af": [
+       "Toilet paper holder",
+       "Towel ring",
+       "Towel rack",
+       "Robe hook",
+       "Medicine Cabinet with Mirror",
+       "Vanity Cabinet (Both with LED light)"
+      ],
+      "op": [
+       "997:Medicine Cabinet with Mirror",
+       "998:NA",
+       "1459:Robe hook",
+       "995:Toilet paper holder",
+       "1458:Towel rack",
+       "996:Towel ring",
+       "1460:Vanity Cabinet (Both with LED light)",
+       "999:Any Other"
+      ]
+     },
+     {
+      "i": 267,
+      "n": "Electrical - Exhaust fan",
+      "ty": "select",
+      "me": [
+       "8 X 8",
+       "200 x 200 mm"
+      ],
+      "pr": [
+       "In line exhaust"
+      ],
+      "af": [
+       "In line exhaust"
+      ],
+      "op": [
+       "1001:200 x 200 mm",
+       "1000:8 X 8",
+       "1002:In line exhaust",
+       "1003:NA",
+       "1004:Any Other"
+      ]
+     },
+     {
+      "i": 268,
+      "n": "Electrical - Geyser (instant)",
+      "ty": "select",
+      "me": [
+       "3L"
+      ],
+      "pr": [
+       "3L"
+      ],
+      "af": [
+       "3L"
+      ],
+      "op": [
+       "1005:3L",
+       "1006:5L",
+       "1007:Central Water Heater",
+       "1008:NA",
+       "1009:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 75,
+    "t": "Servant Room",
+    "c": null,
+    "f": [
+     {
+      "i": 269,
+      "n": "Fixtures",
+      "ty": "multiselect",
+      "me": [
+       "WC",
+       "health faucet",
+       "Basin",
+       "Basin Mixer",
+       "Spout"
+      ],
+      "pr": [
+       "WC",
+       "health faucet",
+       "Basin",
+       "Basin Mixer",
+       "Spout"
+      ],
+      "af": [
+       "WC",
+       "health faucet",
+       "Basin",
+       "Basin Mixer",
+       "Shower & spout"
+      ],
+      "op": [
+       "1399:Basin",
+       "1400:Basin mixer",
+       "1398:health faucet",
+       "1011:NA",
+       "1402:Shower & spout",
+       "1401:Spout",
+       "1010:WC",
+       "1012:Any Other"
+      ]
+     },
+     {
+      "i": 270,
+      "n": "Accessories",
+      "ty": "multiselect",
+      "me": [
+       "Toilet paper holder",
+       "Towel ring",
+       "Towel rod"
+      ],
+      "pr": [
+       "Toilet paper holder",
+       "Towel ring",
+       "Towel rack",
+       "Robe hook"
+      ],
+      "af": [
+       "Toilet paper holder",
+       "Towel ring",
+       "Towel rack",
+       "Robe hook",
+       "Medicine Cabinet with Mirror",
+       "Vanity Cabinet (Both with LED light)"
+      ],
+      "op": [
+       "1405:Medicine Cabinet with Mirror",
+       "1016:NA",
+       "1404:Robe hook",
+       "1013:Toilet paper holder",
+       "1403:Towel rack",
+       "1014:Towel ring",
+       "1015:Towel rod",
+       "1406:Vanity Cabinet (Both with LED light)",
+       "1017:Any Other"
+      ]
+     },
+     {
+      "i": 271,
+      "n": "Electrical - Exhaust fan",
+      "ty": "select",
+      "me": [
+       "8 X 8",
+       "200 x 200 mm"
+      ],
+      "pr": [
+       "In line exhaust"
+      ],
+      "af": [
+       "In line exhaust"
+      ],
+      "op": [
+       "1019:200 x 200 mm",
+       "1018:8 X 8",
+       "1020:In line exhaust",
+       "1021:NA",
+       "1022:Any Other"
+      ]
+     },
+     {
+      "i": 272,
+      "n": "Electrical - Geyser",
+      "ty": "select",
+      "me": [
+       "15L"
+      ],
+      "pr": [
+       "15L"
+      ],
+      "af": [
+       "15L"
+      ],
+      "op": [
+       "1023:15L",
+       "1024:25L",
+       "1025:Central Water Heater",
+       "1026:NA",
+       "1027:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 76,
+    "t": "Balcony (wet) - \r\nUtility",
+    "c": null,
+    "f": [
+     {
+      "i": 273,
+      "n": " Fixtures",
+      "ty": "select",
+      "me": [
+       "Spout"
+      ],
+      "pr": [
+       "Spout"
+      ],
+      "af": [
+       "Spout"
+      ],
+      "op": [
+       "1029:NA",
+       "1028:Spout",
+       "1030:Any Other"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "mod": 3,
+  "id": 8,
+  "t": "Flooring",
+  "n": 1,
+  "last": false,
+  "secs": [
+   {
+    "id": 77,
+    "t": "Corridor, lift \r\nlobby ",
+    "c": null,
+    "f": [
+     {
+      "i": 274,
+      "n": "Type of tile/stone",
+      "ty": "select",
+      "me": [
+       "Vitrified tiles (combination of 2 or more design)",
+       "International Stone",
+       "Marble finish"
+      ],
+      "pr": [
+       "International Stone",
+       "Marble finish (combination of 2 or more design)"
+      ],
+      "af": [
+       "International Stone",
+       "Marble finish (combination of 2 or more design)"
+      ],
+      "op": [
+       "1034:International Stone",
+       "1033:Marble finish",
+       "1032:Marble finish (combination of 2 or more design)",
+       "1031:Vitrified tiles (combination of 2 or more design)",
+       "1035:Any Other"
+      ]
+     },
+     {
+      "i": 275,
+      "n": "Finish of Tile/stone",
+      "ty": "select",
+      "me": [
+       "Pre-Polished",
+       "as required"
+      ],
+      "pr": [
+       "Pre-Polished",
+       "as required"
+      ],
+      "af": [
+       "Pre-Polished",
+       "as required"
+      ],
+      "op": [
+       "1038:Ac4",
+       "1040:Anti Skid",
+       "1037:as required",
+       "1042:Levelled cement",
+       "1039:Matte",
+       "1041:NA (if imported marble)",
+       "1036:Pre-Polished",
+       "1043:Any Other"
+      ]
+     },
+     {
+      "i": 276,
+      "n": "Size of tile/stone",
+      "ty": "select",
+      "me": [
+       "1200 X 600 mm min.",
+       "NA (if International stone,marble finish)"
+      ],
+      "pr": [
+       "NA"
+      ],
+      "af": [
+       "NA"
+      ],
+      "op": [
+       "1044:1200 X 600 mm min.",
+       "1046:195 X 1200 mm",
+       "1047:600 X 600 mm(8% design wastage allowance)",
+       "1351:NA",
+       "1045:NA (if International stone,marble finish)",
+       "1048:Any Other"
+      ]
+     },
+     {
+      "i": 277,
+      "n": "Thickness of tile/stone",
+      "ty": "select",
+      "me": [
+       "10 mm",
+       "14 mm (if International stone,marble finish)"
+      ],
+      "pr": [
+       "14-20 mm"
+      ],
+      "af": [
+       "14-20 mm"
+      ],
+      "op": [
+       "1050:10 mm",
+       "1051:12 mm",
+       "1052:14 mm (if International stone,marble finish)",
+       "1054:14-20 mm",
+       "1053:16 mm",
+       "1049:8 mm",
+       "1055:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 78,
+    "t": "Staircase",
+    "c": null,
+    "f": [
+     {
+      "i": 278,
+      "n": "Type of tile/stone",
+      "ty": "select",
+      "me": [
+       "Restile"
+      ],
+      "pr": [
+       "Restile"
+      ],
+      "af": [
+       "Restile"
+      ],
+      "op": [
+       "1060:International Stone/Marble finish",
+       "1057:Restile",
+       "1056:Vitrified tiles",
+       "1059:Wooden Flooring (engineered)",
+       "1058:Wooden Flooring (Pre finished Laminated)",
+       "1061:Any Other"
+      ]
+     },
+     {
+      "i": 279,
+      "n": " Finish of Tile/stone",
+      "ty": "select",
+      "me": [
+       "Anti skid",
+       "matte"
+      ],
+      "pr": [
+       "Anti skid",
+       "matte"
+      ],
+      "af": [
+       "Anti skid",
+       "matte"
+      ],
+      "op": [
+       "1063:Ac4",
+       "1065:Anti Skid",
+       "1062:Glossy",
+       "1067:Levelled cement",
+       "1064:Matte",
+       "1066:NA",
+       "1068:Any Other"
+      ]
+     },
+     {
+      "i": 280,
+      "n": "Size of tile/stone",
+      "ty": "select",
+      "me": [
+       "as per staircase size"
+      ],
+      "pr": [
+       "as per staircase size"
+      ],
+      "af": [
+       "as per staircase size"
+      ],
+      "op": [
+       "1070:1200 X 600 mm min./NA (if International stone/marble f inish)",
+       "1072:195 X 1200 mm",
+       "1073:600 X 600 mm(8% design wastage allowance)",
+       "1069:As per staircase size",
+       "1071:NA (if imported marble)",
+       "1074:Any Other"
+      ]
+     },
+     {
+      "i": 281,
+      "n": "Thickness of tile/stone",
+      "ty": "select",
+      "me": [
+       "10 mm (as per design)"
+      ],
+      "pr": [
+       "10 mm (as per design)"
+      ],
+      "af": [
+       "10 mm (as per design)"
+      ],
+      "op": [
+       "1076:10 mm (as per design)",
+       "1077:12 mm",
+       "1078:14 mm",
+       "1079:16 mm",
+       "1080:18 mm",
+       "1075:8 mm",
+       "1081:Any Other"
+      ]
+     },
+     {
+      "i": 282,
+      "n": "Skirting height",
+      "ty": "select",
+      "me": [
+       "100 mm"
+      ],
+      "pr": [
+       "100 mm"
+      ],
+      "af": [
+       "100 mm"
+      ],
+      "op": [
+       "1086:100 mm",
+       "1082:60 mm",
+       "1083:70 mm",
+       "1084:80 mm",
+       "1085:90 mm",
+       "1087:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 79,
+    "t": "Entrance Lobby",
+    "c": null,
+    "f": [
+     {
+      "i": 283,
+      "n": "Type of tile/stone",
+      "ty": "select",
+      "me": [
+       "Vitrified tiles",
+       "full body tile (combination of 2 or more design)",
+       "International Stone",
+       "Marble finish"
+      ],
+      "pr": [
+       "Full body tile",
+       "International Stone",
+       "Marble finish (combination of 2 or more design)"
+      ],
+      "af": [
+       "International Stone",
+       "Marble finish (combination of 2 or more design)"
+      ],
+      "op": [
+       "1352:Full body tile",
+       "1089:full body tile (combination of 2 or more design)",
+       "1090:International Stone",
+       "1092:Marble finish",
+       "1091:Marble finish (combination of 2 or more design)",
+       "1088:Vitrified tiles",
+       "1093:Any Other"
+      ]
+     },
+     {
+      "i": 284,
+      "n": "Finish of Tile/stone",
+      "ty": "select",
+      "me": [
+       "Polished"
+      ],
+      "pr": [
+       "Polished"
+      ],
+      "af": [
+       "Polished"
+      ],
+      "op": [
+       "1096:Ac4",
+       "1098:Anti Skid",
+       "1095:Glossy",
+       "1100:Levelled cement",
+       "1097:Matte",
+       "1099:NA",
+       "1094:Polished",
+       "1101:Any Other"
+      ]
+     },
+     {
+      "i": 285,
+      "n": "Size of tile/stone",
+      "ty": "select",
+      "me": [
+       "1200 X 600 mm min.",
+       "NA (if International stone,marble finish)"
+      ],
+      "pr": [
+       "NA"
+      ],
+      "af": [
+       "NA"
+      ],
+      "op": [
+       "1102:1200 X 600 mm min.",
+       "1105:195 X 1200 mm",
+       "1106:600 X 600 mm(8% design wastage allowance)",
+       "1104:NA",
+       "1103:NA (if International stone,marble finish)",
+       "1107:Any Other"
+      ]
+     },
+     {
+      "i": 286,
+      "n": "Thickness of tile/stone",
+      "ty": "select",
+      "me": [
+       "10 mm",
+       "14 mm (if International stone, marble finish)"
+      ],
+      "pr": [
+       "14-20 mm"
+      ],
+      "af": [
+       "14-20 mm"
+      ],
+      "op": [
+       "1353:10 mm",
+       "1109:10 mm (if International stone finish)",
+       "1110:12 mm",
+       "1111:14 mm (if International stone, marble finish)",
+       "1113:14-20 mm",
+       "1112:16 mm",
+       "1108:8 mm",
+       "1114:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 80,
+    "t": "Terrace",
+    "c": null,
+    "f": [
+     {
+      "i": 287,
+      "n": "Type of tile/stone",
+      "ty": "select",
+      "me": [
+       "Ceramic",
+       "vitrified tiles (as per Green rating)"
+      ],
+      "pr": [
+       "Ceramic",
+       "vitrified tiles (as per Green rating)"
+      ],
+      "af": [
+       "Ceramic",
+       "vitrified tiles (as per Green rating)"
+      ],
+      "op": [
+       "1115:Ceramic",
+       "1119:International Stone/Marble finish",
+       "1116:vitrified tiles (as per Green rating)",
+       "1118:Wooden Flooring (engineered)",
+       "1117:Wooden Flooring (Pre finished Laminated)",
+       "1120:Any Other"
+      ]
+     },
+     {
+      "i": 288,
+      "n": "Finish of Tile/stone",
+      "ty": "select",
+      "me": [
+       "Anti skid",
+       "matte"
+      ],
+      "pr": [
+       "Anti skid",
+       "matte"
+      ],
+      "af": [
+       "Anti skid",
+       "matte"
+      ],
+      "op": [
+       "1123:Ac4",
+       "1125:Anti Skid",
+       "1122:Glossy",
+       "1127:Levelled cement",
+       "1124:Matte",
+       "1126:NA",
+       "1128:Any Other"
+      ]
+     },
+     {
+      "i": 289,
+      "n": "Size of tile/stone",
+      "ty": "select",
+      "me": [
+       "300 X 300 mm"
+      ],
+      "pr": [
+       "300 X 300 mm"
+      ],
+      "af": [
+       "300 X 300 mm"
+      ],
+      "op": [
+       "1131:1200 X 600 mm min./NA (if International stone/marble finish)",
+       "1132:195 X 1200 mm",
+       "1129:300 X 300 mm",
+       "1130:600 X 600 mm(8% design wastage allowance)",
+       "1133:NA (if imported marble)",
+       "1134:Any Other"
+      ]
+     },
+     {
+      "i": 290,
+      "n": "Thickness of tile/stone",
+      "ty": "select",
+      "me": [
+       "10 mm"
+      ],
+      "pr": [
+       "10 mm"
+      ],
+      "af": [
+       "10 mm"
+      ],
+      "op": [
+       "1136:10 mm",
+       "1137:12 mm",
+       "1138:14 mm",
+       "1139:16 mm",
+       "1140:18 mm",
+       "1135:8 mm",
+       "1141:Any Other"
+      ]
+     },
+     {
+      "i": 291,
+      "n": " Skirting height",
+      "ty": "select",
+      "me": [
+       "100 mm (Joint of Floor & skirting to match)"
+      ],
+      "pr": [
+       "100 mm (Joint of Floor & skirting to match)"
+      ],
+      "af": [
+       "100 mm (Joint of Floor & skirting to match)"
+      ],
+      "op": [
+       "1146:100 mm (Joint of Floor & skirting to match)",
+       "1142:60 mm",
+       "1143:70 mm",
+       "1144:80 mm",
+       "1145:90 mm",
+       "1147:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 81,
+    "t": "Basement/\r\n podium (parking\r\narea)",
+    "c": null,
+    "f": [
+     {
+      "i": 292,
+      "n": "Flooring treatment",
+      "ty": "select",
+      "me": [
+       "Tremix",
+       "VDF Finished with Traffic Bearing Membrane"
+      ],
+      "pr": [
+       "Tremix",
+       "VDF Finished with Traffic Bearing Membrane"
+      ],
+      "af": [
+       "Epoxy",
+       "Tremix",
+       "VDF Finished with Traffic Bearing Membrane"
+      ],
+      "op": [
+       "1150:Epoxy",
+       "1148:Tremix",
+       "1149:VDF Finished with Traffic Bearing Membrane",
+       "1151:Any Other"
+      ]
+     },
+     {
+      "i": 293,
+      "n": "Type of Paint",
+      "ty": "select",
+      "me": [
+       "OBD (oil bound distemper)"
+      ],
+      "pr": [
+       "OBD (oil bound distemper)"
+      ],
+      "af": [
+       "OBD (oil bound distemper)"
+      ],
+      "op": [
+       "1153:Acrylic emulsion",
+       "1152:OBD (oil bound distemper)",
+       "1154:Any Other"
+      ]
+     },
+     {
+      "i": 294,
+      "n": "Column Guard",
+      "ty": "select",
+      "me": [
+       "Reflective tape"
+      ],
+      "pr": [
+       "PVC + Reflective Tape"
+      ],
+      "af": [
+       "Rubberised + Reflective Tape"
+      ],
+      "op": [
+       "1156:PVC + Reflective Tape",
+       "1155:Reflective tape",
+       "1157:Rubberised + Reflective Tape",
+       "1158:Any Other"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "mod": 3,
+  "id": 9,
+  "t": "Walls & Ceiling",
+  "n": 2,
+  "last": false,
+  "secs": [
+   {
+    "id": 82,
+    "t": "Wall Finishing / (Corridor, lift)",
+    "c": null,
+    "f": [
+     {
+      "i": 295,
+      "n": "Type of tile/stone",
+      "ty": "select",
+      "me": [
+       "Vitrified tiles (combination of 2 or more design)",
+       "International Stone",
+       "Marble finish"
+      ],
+      "pr": [
+       "International Stone",
+       "Marble finish (combination of 2 or more design), wall paper",
+       "Wooden Paneling",
+       "Mirror Paneling",
+       "wall paper"
+      ],
+      "af": [
+       "International Stone",
+       "Marble finish (combination of 2 or more design), wall paper",
+       "Wooden Paneling",
+       "Mirror Paneling",
+       "wall paper"
+      ],
+      "op": [
+       "1165:International Stone",
+       "1164:Marble finish",
+       "1355:Marble finish (combination of 2 or more design), wall paper",
+       "1162:Mirror Paneling",
+       "1159:Vitrified tiles (combination of 2 or more design)",
+       "1163:wall paper",
+       "1161:Wooden Paneling",
+       "1166:Any Other"
+      ]
+     },
+     {
+      "i": 296,
+      "n": "Finish of Tile/stone",
+      "ty": "select",
+      "me": [
+       "Glazed",
+       "NA (if International stone, marble finish)"
+      ],
+      "pr": [
+       "NA"
+      ],
+      "af": [
+       "NA"
+      ],
+      "op": [
+       "1169:Ac4",
+       "1167:Glazed",
+       "1168:Glossy",
+       "1173:Levelled cement",
+       "1170:Matte",
+       "1171:NA",
+       "1172:NA (if International stone, marble finish)",
+       "1174:Any Other"
+      ]
+     },
+     {
+      "i": 297,
+      "n": "Size of tile/stone",
+      "ty": "select",
+      "me": [
+       "1200 X 600 mm min.",
+       "NA (if International stone, marble finish)"
+      ],
+      "pr": [
+       "NA"
+      ],
+      "af": [
+       "NA"
+      ],
+      "op": [
+       "1175:1200 X 600 mm min.",
+       "1178:600 X 600 mm(8% design wastage allowance)",
+       "1176:NA",
+       "1177:NA (if International stone, marble finish)",
+       "1179:Any Other"
+      ]
+     },
+     {
+      "i": 298,
+      "n": "Thickness of tile/stone",
+      "ty": "select",
+      "me": [
+       "10 mm",
+       "14 mm (if International stone, marble finish)"
+      ],
+      "pr": [
+       "14 mm"
+      ],
+      "af": [
+       "14 mm"
+      ],
+      "op": [
+       "1181:10 mm",
+       "1182:12 mm",
+       "1184:14 mm",
+       "1183:14 mm (if International stone, marble finish)",
+       "1185:16 mm",
+       "1180:8 mm",
+       "1186:Any Other"
+      ]
+     },
+     {
+      "i": 299,
+      "n": "Type of paint",
+      "ty": "select",
+      "me": [
+       "Enamel + Acrylic paint"
+      ],
+      "pr": [
+       "Enamel + Acrylic paint"
+      ],
+      "af": [
+       "Enamel + Acrylic paint"
+      ],
+      "op": [
+       "1188:Acrylic emulsion",
+       "1189:Enamel + Acrylic paint",
+       "1187:OBD (oil bound distemper)",
+       "1190:Any Other"
+      ]
+     },
+     {
+      "i": 300,
+      "n": "Type of Plaster",
+      "ty": "select",
+      "me": [
+       "Gypsum plaster"
+      ],
+      "pr": [
+       "Gypsum plaster"
+      ],
+      "af": [
+       "Gypsum plaster"
+      ],
+      "op": [
+       "1191:Gypsum plaster",
+       "1192:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 83,
+    "t": "Wall Finishing / (Staircase)",
+    "c": null,
+    "f": [
+     {
+      "i": 301,
+      "n": "Type of paint",
+      "ty": "select",
+      "me": [
+       "OBD (oil bound distemper)"
+      ],
+      "pr": [
+       "OBD (oil bound distemper)",
+       "Acryclic emulsion paint"
+      ],
+      "af": [
+       "Acryclic emulsion paint"
+      ],
+      "op": [
+       "1194:Acryclic emulsion paint",
+       "1195:Enamel + Acrylic paint",
+       "1193:OBD (oil bound distemper)",
+       "1196:Weathersheild",
+       "1197:Any Other"
+      ]
+     },
+     {
+      "i": 302,
+      "n": "Type of Plaster",
+      "ty": "select",
+      "me": [
+       "Gypsum plaster"
+      ],
+      "pr": [
+       "Gypsum plaster"
+      ],
+      "af": [
+       "Gypsum plaster"
+      ],
+      "op": [
+       "1198:Gypsum plaster",
+       "1199:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 84,
+    "t": "Wall Finishing / Entrance Lobby",
+    "c": null,
+    "f": [
+     {
+      "i": 303,
+      "n": "Enterance Design",
+      "ty": "select",
+      "me": [
+       "As per design"
+      ],
+      "pr": [
+       "As per design"
+      ],
+      "af": [
+       "As per design"
+      ],
+      "op": [
+       "1200:As per design",
+       "1201:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 85,
+    "t": "Wall Finishing / Terrace\r\n(parapet)",
+    "c": null,
+    "f": [
+     {
+      "i": 304,
+      "n": "Type of paint",
+      "ty": "select",
+      "me": [
+       "Weathersheild"
+      ],
+      "pr": [
+       "Weathersheild"
+      ],
+      "af": [
+       "Weathersheild"
+      ],
+      "op": [
+       "1203:Acrylic emulsion",
+       "1204:Enamel + Acrylic paint",
+       "1202:OBD (oil bound distemper)",
+       "1205:Weathersheild",
+       "1206:Any Other"
+      ]
+     },
+     {
+      "i": 305,
+      "n": "Type of Plaster",
+      "ty": "select",
+      "me": [
+       "Plaster"
+      ],
+      "pr": [
+       "Plaster"
+      ],
+      "af": [
+       "Plaster"
+      ],
+      "op": [
+       "1207:Plaster",
+       "1208:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 86,
+    "t": "Wall Finishing / Basement/\r\n podium (parking \r\narea)",
+    "c": null,
+    "f": [
+     {
+      "i": 306,
+      "n": "Type of paint",
+      "ty": "select",
+      "me": [
+       "OBD (oil bound distemper)"
+      ],
+      "pr": [
+       "OBD (oil bound distemper)"
+      ],
+      "af": [
+       "OBD (oil bound distemper)"
+      ],
+      "op": [
+       "1210:Acrylic emulsion",
+       "1211:Enamel + Acrylic paint",
+       "1209:OBD (oil bound distemper)",
+       "1212:Weathersheild",
+       "1213:Any Other"
+      ]
+     },
+     {
+      "i": 307,
+      "n": "Type of Plaster",
+      "ty": "select",
+      "me": [
+       "Exposed concrete"
+      ],
+      "pr": [
+       "Exposed concrete"
+      ],
+      "af": [
+       "Exposed concrete"
+      ],
+      "op": [
+       "1215:Exposed concrete",
+       "1214:Plaster",
+       "1216:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 87,
+    "t": "(Ceiling) / Corridor, lift lobby (including staircase)",
+    "c": null,
+    "f": [
+     {
+      "i": 308,
+      "n": "Type of false ceiling",
+      "ty": "select",
+      "me": [
+       "Decorative False ceiling with ceiling lights"
+      ],
+      "pr": [
+       "Decorative False ceiling with ceiling lights"
+      ],
+      "af": [
+       "Decorative False ceiling with ceiling lights"
+      ],
+      "op": [
+       "1217:Decorative False ceiling with ceiling lights",
+       "1218:Any Other"
+      ]
+     },
+     {
+      "i": 309,
+      "n": "Type of paint",
+      "ty": "select",
+      "me": [
+       "Acrylic emulsion"
+      ],
+      "pr": [
+       "Acrylic emulsion"
+      ],
+      "af": [
+       "Acrylic emulsion"
+      ],
+      "op": [
+       "1220:Acrylic emulsion",
+       "1221:Enamel + Acrylic paint",
+       "1219:OBD (oil bound distemper)",
+       "1222:Weathersheild",
+       "1223:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 88,
+    "t": "(Ceiling) / Entrance Lobby",
+    "c": null,
+    "f": [
+     {
+      "i": 310,
+      "n": "Type of false ceiling",
+      "ty": "select",
+      "me": [
+       "Decorative False ceiling with ceiling lights"
+      ],
+      "pr": [
+       "Decorative False ceiling with ceiling lights"
+      ],
+      "af": [
+       "Decorative False ceiling with ceiling lights"
+      ],
+      "op": [
+       "1224:Decorative False ceiling with ceiling lights",
+       "1225:Any Other"
+      ]
+     },
+     {
+      "i": 311,
+      "n": "Type of Plaster",
+      "ty": "select",
+      "me": [
+       "NA"
+      ],
+      "pr": [
+       "NA"
+      ],
+      "af": [
+       "NA"
+      ],
+      "op": [
+       "1227:Exposed concrete",
+       "1228:NA",
+       "1226:Plaster",
+       "1229:Any Other"
+      ]
+     },
+     {
+      "i": 312,
+      "n": "Type of paint",
+      "ty": "select",
+      "me": [
+       "Acrylic emulsion"
+      ],
+      "pr": [
+       "Acrylic emulsion"
+      ],
+      "af": [
+       "Acrylic emulsion"
+      ],
+      "op": [
+       "1231:Acrylic emulsion",
+       "1232:Enamel + Acrylic paint",
+       "1230:OBD (oil bound distemper)",
+       "1233:Weathersheild",
+       "1234:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 89,
+    "t": "(Ceiling) / Basement/\r\n podium (parking \r\narea)",
+    "c": null,
+    "f": [
+     {
+      "i": 313,
+      "n": "Type of paint",
+      "ty": "select",
+      "me": [
+       "OBD (oil bound distemper)"
+      ],
+      "pr": [
+       "OBD (oil bound distemper)"
+      ],
+      "af": [
+       "OBD (oil bound distemper)"
+      ],
+      "op": [
+       "1236:Acrylic emulsion",
+       "1237:Enamel + Acrylic paint",
+       "1235:OBD (oil bound distemper)",
+       "1238:Weathersheild",
+       "1239:Any Other"
+      ]
+     },
+     {
+      "i": 314,
+      "n": "Type of Plaster",
+      "ty": "select",
+      "me": [
+       "NA"
+      ],
+      "pr": [
+       "NA"
+      ],
+      "af": [
+       "NA"
+      ],
+      "op": [
+       "1241:Exposed concrete",
+       "1242:NA",
+       "1240:Plaster",
+       "1243:Any Other"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "mod": 3,
+  "id": 10,
+  "t": "Doors &\r\n Other Facilities",
+  "n": 3,
+  "last": true,
+  "secs": [
+   {
+    "id": 90,
+    "t": "(Doors) / Entrance Lobby (Ground floor drop off)",
+    "c": null,
+    "f": [
+     {
+      "i": 315,
+      "n": "Type of door",
+      "ty": "select",
+      "me": [
+       "Sliding door (glass) (PVB or SGP to be used)"
+      ],
+      "pr": [
+       "Sliding door (glass) (PVB or SGP to be used)"
+      ],
+      "af": [
+       "Sliding door (glass) (PVB or SGP to be used)"
+      ],
+      "op": [
+       "1245:Glazed Swing door (PVB or SGP to be used)",
+       "1244:Sliding door (glass) (PVB or SGP to be used)",
+       "1246:Any Other"
+      ]
+     },
+     {
+      "i": 316,
+      "n": "Air curtain",
+      "ty": "select",
+      "me": [
+       "Air curtain (preferably from outside and merged seamlessly into facade)"
+      ],
+      "pr": [
+       "Air curtain (preferably from outside and merged seamlessly into facade)"
+      ],
+      "af": [
+       "Air curtain (preferably from outside and merged seamlessly into facade)"
+      ],
+      "op": [
+       "1247:Air curtain (preferably from outside and merged seamlessly into facade)",
+       "1248:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 91,
+    "t": "(Doors) / Entrance Lobby\r\n(Basement drop\r\noff)",
+    "c": null,
+    "f": [
+     {
+      "i": 317,
+      "n": "Type of door",
+      "ty": "select",
+      "me": [
+       "Glazed Swing door (PVB or SGP to be used)"
+      ],
+      "pr": [
+       "Glazed Swing door (PVB or SGP to be used)"
+      ],
+      "af": [
+       "Glazed Swing door (PVB or SGP to be used)"
+      ],
+      "op": [
+       "1250:Glazed Swing door (PVB or SGP to be used)",
+       "1249:Sliding door (glass) (PVB or SGP to be used)",
+       "1251:Any Other"
+      ]
+     },
+     {
+      "i": 318,
+      "n": "Air curtain",
+      "ty": "select",
+      "me": [
+       "Air curtain (preferably from outside and merged seamlessly into facade)"
+      ],
+      "pr": [
+       "Air curtain (preferably from outside and merged seamlessly into facade)"
+      ],
+      "af": [
+       "Air curtain (preferably from outside and merged seamlessly into facade)"
+      ],
+      "op": [
+       "1252:Air curtain (preferably from outside and merged seamlessly into facade)",
+       "1253:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 92,
+    "t": "(Doors) / Shaft/staircase \r\ndoors",
+    "c": null,
+    "f": [
+     {
+      "i": 319,
+      "n": "Door coating",
+      "ty": "select",
+      "me": [
+       "2 hr rating fire resistance, Metal Powder Coated",
+       "Wooden door; as per NBC 2016 Pt 4"
+      ],
+      "pr": [
+       "2 hr rating fire resistance, Metal Powder Coated",
+       "Wooden door; as per NBC 2016 Pt 4"
+      ],
+      "af": [
+       "2 hr rating fire resistance, Metal Powder Coated",
+       "Wooden door; as per NBC 2016 Pt 4"
+      ],
+      "op": [
+       "1254:2 hr rating fire resistance, Metal Powder Coated",
+       "1255:Wooden door; as per NBC 2016 Pt 4",
+       "1256:Any Other"
+      ]
+     },
+     {
+      "i": 320,
+      "n": "Door shutter finish",
+      "ty": "select",
+      "me": [
+       "Paint inside, matching the look of outside area"
+      ],
+      "pr": [
+       "Paint inside, matching the look of outside area"
+      ],
+      "af": [
+       "Paint inside, matching the look of outside area"
+      ],
+      "op": [
+       "1257:Paint inside, matching the look of outside area",
+       "1258:Any Other"
+      ]
+     },
+     {
+      "i": 321,
+      "n": "As per fire norms",
+      "ty": "select",
+      "me": [
+       "As per fire norms"
+      ],
+      "pr": [
+       "As per fire norms"
+      ],
+      "af": [
+       "Staircase Door size"
+      ],
+      "op": [
+       "1259:As per fire norms",
+       "1260:Staircase Door size",
+       "1261:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 93,
+    "t": "(Doors) / Staircase Door size",
+    "c": null,
+    "f": [
+     {
+      "i": 322,
+      "n": "Type of AC",
+      "ty": "select",
+      "me": [
+       "Ductable VRF"
+      ],
+      "pr": [
+       "Ductable VRF"
+      ],
+      "af": [
+       "Ductable VRF"
+      ],
+      "op": [
+       "1262:Ductable VRF",
+       "1263:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 94,
+    "t": "(Entrance lobby) / Air",
+    "c": null,
+    "f": [
+     {
+      "i": 323,
+      "n": "Facilities",
+      "ty": "multiselect",
+      "me": [
+       "Art (painting, sculpture)",
+       "Furniture (Chair, round table)",
+       "Provision of BGM"
+      ],
+      "pr": [
+       "Art (painting, sculpture)",
+       "Furniture (Chair, round table)",
+       "Provision of BGM"
+      ],
+      "af": [
+       "Art (painting, sculpture)",
+       "Furniture (Sofa, Chair, round table, sidetables)",
+       "Provision of BGM",
+       "Entertaiment services like-Pool, TT table Etc"
+      ],
+      "op": [
+       "1264:Art (painting, sculpture)",
+       "1463:Entertaiment services like-Pool, TT table Etc",
+       "1461:Furniture (Chair, round table)",
+       "1265:Furniture (Sofa, Chair, round table, sidetables)",
+       "1462:Provision of BGM",
+       "1266:Any Other"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 95,
+    "t": "(Entrance lobby) / Facilities &\r\nservices to be\r\nprovided",
+    "c": null,
+    "f": [
+     {
+      "i": 324,
+      "n": "Services",
+      "ty": "select",
+      "me": [
+       "Reception desk Security Mail Room Storage area (for baggage trolley, similar) Toilets Wheelchair Cycle Parking Others as per fire norms"
+      ],
+      "pr": [
+       "Reception desk Security Mail Room Storage area (for baggage trolley, similar) Toilets Wheelchair Cycle Parking Others as per fire norms"
+      ],
+      "af": [
+       "Reception desk Security Mail Room Storage area (for baggage trolley, similar) Toilets Wheelchair Cycle Parking Others as per fire norms"
+      ],
+      "op": [
+       "1267:Reception desk Security Mail Room Storage area (for baggage trolley, similar) Toilets Wheelchair Cycle Parking Others as per fire norms",
+       "1268:Any Other"
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]
