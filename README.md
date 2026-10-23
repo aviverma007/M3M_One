@@ -57,3 +57,12 @@ All responses: `{ success, message, data }`. Auth: `Authorization: Bearer <acces
 - The web frontend.
 - Commercial key-ratio input/benchmark definitions and the commercial question bank (to be imported from the previous system's data export).
 - Password-reset emails (links are currently written to the server log).
+
+## 3. Web app
+
+The built web app is committed in `client/dist/` and is served by the API on the same port —
+after `pm2 restart m3m-one-api`, open **http://localhost:4000** (or `http://<server-name>:4000` from other PCs once port 4000 is open in Windows Firewall).
+
+To change the frontend: `cd client && npm install && npm run dev` (opens on http://localhost:5173, proxies to the API on 4000), then `npm run build` and commit `client/dist`.
+
+Screens: sign in / password reset, projects (search, filters, portfolio switcher), project create/edit, project overview with module scores, key ratios (live benchmark checks, ₹ Cr impact, flags and remarks, CSV import, drafts), chapter questions (benchmark matching per category, flags, remarks, CSV import, drafts), users, module access per company/department, activity log with CSV export, notifications.

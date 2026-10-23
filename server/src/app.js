@@ -25,6 +25,15 @@ api.use('/', require('./routes/keyRatio'));
 api.use('/', require('./routes/platform'));
 app.use(config.apiPrefix, api);
 
+// Web app (client/dist after `npm run build` in client/) — served from the same port
+const path = require('path');
+const fs = require('fs');
+const clientDist = path.resolve(__dirname, '..', '..', 'client', 'dist');
+if (fs.existsSync(path.join(clientDist, 'index.html'))) {
+  app.use(express.static(clientDist, { index: false, maxAge: '1h' }));
+  app.get(/^(?!\/v1\/|\/uploads\/|\/health).*/, (_req, res) => res.sendFile(path.join(clientDist, 'index.html')));
+}
+
 app.use((req, _res, next) => next(new ApiError(404, `Route not found: ${req.method} ${req.originalUrl}`)));
 app.use(errorHandler);
 

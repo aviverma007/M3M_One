@@ -2,4 +2,4 @@ node_modules/
 .env
 *.sqlite
 server/uploads/
-dist/
+/client/node_modules/
