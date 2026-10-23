@@ -54,7 +54,6 @@ All responses: `{ success, message, data }`. Auth: `Authorization: Bearer <acces
 ## Not yet built
 
 - Design-brief department routes (liaison, business development, land, structure, MEP), design-brief summary/comments and DPR PDF export — the tables exist in `schema.sql`.
-- The web frontend.
 - Commercial key-ratio input/benchmark definitions and the commercial question bank (to be imported from the previous system's data export).
 - Password-reset emails (links are currently written to the server log).
 
